@@ -1,0 +1,882 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England enslaved under popish successors being a true history of the oppressions this nation groaned under in times of popery.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 124 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38369</idno>
+            <idno type="STC">Wing E2932</idno>
+            <idno type="STC">ESTC R42018</idno>
+            <idno type="EEBO-CITATION">23231897</idno>
+            <idno type="OCLC">ocm 23231897</idno>
+            <idno type="VID">109501</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38369)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109501)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1700:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England enslaved under popish successors being a true history of the oppressions this nation groaned under in times of popery.</title>
+               </titleStmt>
+               <extent>[2], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonathan Wilkins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXI [1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: faded and tightly bound with loss of print.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  Early works to 1800.</term>
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109501:1" rendition="simple:additions"/>
+            <pb facs="tcp:109501:1"/>
+            <p>England Enſlaved UNDER POPISH SUCCESSORS BEING A True HISTORY OF THE OPPRESSIONS this NATION Groaned under in Times of POPERY.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Jonathan Wilkins</hi> at the <hi>Star</hi> in <hi>Cheapſide,</hi> next <hi>Mercers Chappel.</hi> MDCLXXXI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:109501:2"/>
+            <pb n="1" facs="tcp:109501:2" rendition="simple:additions"/>
+            <head>
+               <hi>ENGLAND'S</hi> Grievances in Times of <hi>POPERY.</hi>
+            </head>
+            <div n="1" type="section">
+               <head>SECTION 1.</head>
+               <p>IT appeareth as well by the Pope's Laws delivered in Decretal E<g ref="char:EOLhyphen"/>piſtles, which were particularly, and upon ſundry occaſions direct<g ref="char:EOLhyphen"/>ed to the Biſhops and other Clergy-men of this Realm of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in Popiſh times; as alſo by the report of our Engliſh Hiſtories; that at ſuch time as the Biſhop of <hi>Rome</hi> had his full <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>way in this Realm, the Authority of the King was ſo obſcured, as there was hardly left any ſhew of his Sword and Dignity. And on the other ſide, the Subjects deſtitute of ſuccour by their Natural Prince, and left to a moſt miſera<g ref="char:EOLhyphen"/>ble ſpoil and rapine of the Pope, and of ſuch as it pleaſed him to give them in prey; whereof theſe ſpecial Grievances here collected, may ſerve for teſtimony; beſid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a number of others, which come not to my memory; but may be eaſily ſupplied by any indifferent mans care<g ref="char:EOLhyphen"/>ful Reading.</p>
+               <div type="grievances">
+                  <head>GRIEVANCES.</head>
+                  <p>1. The firſt Grievance was, <hi>The Exemption of the Clergy;</hi> who being <note place="margin">Exempti<g ref="char:EOLhyphen"/>on of the Clergy.</note> a conſiderable part of the Realm, by reaſon that great numbers as well looking to Preferments that then were beſtowed upon that State; as alſo drawn by Priviledges and Immunities which they infinitely en<g ref="char:EOLhyphen"/>joyed above others, ſought to be of that number, were wholly exempt (or at leaſt ſo took themſelves to be) from all Juriſdiction of the King and his Juſtices, not in Eccleſiaſtical Cauſes only, as then they were termed, but even in Cauſes Civil, and in Matters of Crime; though the ſame touched the Prince and his Danger in the higheſt degree.</p>
+                  <p>The Popes Laws to this purpoſe are to be ſeen in <hi>C. Clerici extr. de Ju<g ref="char:EOLhyphen"/>dici<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s, C. ſeculares de fore compet enti in</hi> 6<hi rend="sup">o</hi>. and a ſpecial Conſtitution Pro<g ref="char:EOLhyphen"/>vincial of this Realm made by <hi>Boniface</hi> Archb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhop of <hi>Canterbury</hi> in the time of King <hi>Henry</hi> the Third, in the Council of <hi>Weſtminster</hi> or <hi>Lambeth Anno 1270 or 1272. vid. Prynne's</hi> Exact Hiſtory of Pope's Intollerable Uſurpations upon the Liberties of the King and Subjects of <hi>England</hi> and
+<pb n="4" facs="tcp:109501:3"/> 
+                     <hi>Ireland: Vol. 2. lib. 4. c. 3. Johan. de Aton. Constitut. Guil. Lindwood.</hi>
+                  </p>
+                  <p>Touching the Practice, it is recorded in the De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>retals that Pope <hi>Ale<g ref="char:EOLhyphen"/>xander</hi> III. in the tim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the Reign of King <hi>Stephen,</hi> wrote to the Biſhop of <hi>London,</hi> to take Order by his Juriſdiction in a Civil Controverſie of Goods left in the Cuſtody of a Clerk; <hi>c. 1. de Depoſito.</hi>
+                  </p>
+                  <p>Likewiſe it doth there appear, that in the time of King <hi>Henry</hi> II. Pope <hi>Lucius</hi> III. wrote to the Biſhops of <hi>Ely</hi> and <hi>Norwich,</hi> to compel a Clerk to ſave his Sureties harmleſs: And to like purpoſe he wrote in another Caſe to the Archbiſhop of <hi>Canterbury.</hi>
+                  </p>
+                  <p>King <hi>Henry</hi> III. pretending Title by his Prerogative, or by the Com<g ref="char:EOLhyphen"/>mon Law, to certain Lands, which the Archbiſhop of <hi>Canterbury</hi> claim<g ref="char:EOLhyphen"/>ed to be parcel of the poſſeſſions of his Church, was compelled to an<g ref="char:EOLhyphen"/>ſwer the Biſhop in that Cauſe in the Court of <hi>Rome. Mat. Paris fol.</hi> 494.</p>
+                  <p>
+                     <hi>Adam Tarlton,</hi> or <hi>d'Orl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on,</hi> Biſhop of <hi>Hereford,</hi> in a Parliament hol<g ref="char:EOLhyphen"/>den at <hi>London</hi> in the year 1324, was accuſed of Treaſon againſt King <hi>Edward</hi> II. as having aided the <hi>Mortimers</hi> with Men and Money againſt that King. Being brought before the King, and claiming his Priviledge to be judged by the Pope, he was forthwith reſcued by the reſt of the Clergy. After a few dayes the King cauſed him to be brought before him, and when he ſhould have been arraigned (a thing till that time never heard of, that a Biſhop ſhould be arraigned) the boldneſs of the three Archbiſhops of <hi>Canterbury, York,</hi> and <hi>Dublin,</hi> was very ſtrange; for they, with ten other Biſhops, with their Croſſes erected; came to the Bar before the Kings Juſtices, and took him from thence into their own Cuſtody. In his abſence he was attainted with High Treaſon not<g ref="char:EOLhyphen"/>withſtanding, and his Temporalties were ſeized into the King's hand, until ſuch time as the King (much by his device and machination) was depoſed of his Kingdom. But though the King took away his goods, yet he was not ſuffered to meddle with his Body. <hi>Tho. Walſingham H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt. Angl. p.</hi> 98, 99.</p>
+               </div>
+            </div>
+            <div n="2" type="section">
+               <head>SECT. 2.</head>
+               <p>2. Whatſoever Laws the King in his Parliament made, which in any <note place="margin">Reſtraint of making Laws for Policy.</note> ſort impeached the Priviledge or Liberty of the Clergy, or touched their Lands or Goods, were for that time holden by the Pope and his Clergy, void, and of no force. And it helped not the King, how juſt cauſe ſoever he pretended of any right appertaining to his Anceſtors.</p>
+               <p>For ſo are the Popes Laws in preciſe terms, ſave that ſome of the later ſort reſerve to the King, Laws touching Services, and ſome o<g ref="char:EOLhyphen"/>ther rights in Church lands. <hi>c. qu. Eccleſiarum de Conſtit. c. Eccleſ. Sanct. Alar. c. Noverit. &amp;c. Grav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m, de Sententia Excommunicationis.</hi>
+               </p>
+               <pb n="5" facs="tcp:109501:3"/>
+               <p>And ſome Popes were ſo jealous over Princes in the Point, that they refuſed to allow Laws by them made to the benefit of the Church. As where <hi>Baſil</hi> Lieutenant to <hi>Odoacer</hi> King of the <hi>Lombards,</hi> provided by Law in favour of the Church, that no Preſcription ſhould make his Title good, who had bought ought of the Church; the Pope miſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iking that a Lay-m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſhould deal in thoſe Cauſes, diſannulled the Law. <hi>c. Pene quid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m, Diſtinct.</hi> 96.</p>
+               <p>The pract<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce of this injury is notable in the dealing of <hi>Thomas</hi> Archbiſhop of <hi>Canterbury</hi> with King <hi>Henry</hi> II. For whereas the King in his Parliament had made very reaſonable Laws in maintainance of the Ancient Rights of the Crown, againſt the licentious Liberties claimed by the Clergy: Among which, one was, That Clerks in Cau<g ref="char:EOLhyphen"/>ſes of Felony and Murther, ſhould be tried by the Laws of the Realm (for that it was ſhewed unto the Parliament that then an hundred <note place="margin">So <hi>Nu<g ref="char:EOLhyphen"/>burgenſis</hi> noteth, <hi>lib. 2. cap.</hi> 15.</note> M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rthers had been committed by Church-men, not duly puniſhed) whereto the ſaid Archbiſhop and the reſt of the Prelats gave their con<g ref="char:EOLhyphen"/>ſents, and bound themſelves to the obſervation of them by their Oaths; the Archbiſhop afterwards grudging at theſe Laws, departed the Realm, obtained at the Pope's hand Abſolution from his Oath, and forced the King to anſwer for thoſe Laws in the Court of <hi>Rome;</hi> where the King finding no favour, that Garboil inſued, which after fell out betwixt the King, the Pope, and the Archbiſhop; and many Murthers committed upon Clerks by the Lay-ſubjects, who greatly ſtomached this Indignity offered to the King.</p>
+               <p>The Pope fearing two ſuch Potentates as the Kings of <hi>England</hi> and <note place="margin">
+                     <hi>Mat. Paris Hiſt. Angl.</hi> fol. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 4, 135.</note> 
+                  <hi>France,</hi> determineth to labour a Reconciliation betwixt the King and the Archbiſhop, and to make the French King a Mediator for the Archbiſhop. This he effected, and brought the two Kings toge<g ref="char:EOLhyphen"/>ther at <hi>Paris.</hi> Thither alſo came <hi>Thomas Becket,</hi> who being come in<g ref="char:EOLhyphen"/>to the King's preſence, falling down upon his knees, uſed theſe words, <hi>My Lord and Soveraign, I do here commit unto your own judg<g ref="char:EOLhyphen"/>ment the Cauſe and Controverſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> between u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, ſo far forth as I may,</hi> ſalvo honore Dei; <hi>ſaving the honour of God.</hi> The King being much offend<g ref="char:EOLhyphen"/>ed with that laſt Expreſſion <hi>[Salvo honore Dei]</hi> turned himſelf about unto the French King, and ſaid, <hi>See you not, how he goeth about to de<g ref="char:EOLhyphen"/>lude me with this Clauſe</hi> [Saving the honour of God,] <hi>for whatſoever ſhall diſpleaſe him, he will by and by alledge to be prejudicial to the honour of God: But this I will ſay to you, whereas there have been Kings of</hi> Eng<g ref="char:EOLhyphen"/>land, <note place="margin">
+                     <hi>Godwin</hi>'s Catalogue of Engliſh<g ref="char:punc">▪</g> Biſhops.</note> 
+                  <hi>many before me; whereof ſome were peradventure of greater power than I, the moſt far leſs; and again, many Archbiſhops before this man, holy and notable men. Look what Duty was ever performed by the great<g ref="char:EOLhyphen"/>eſt
+<pb n="6" facs="tcp:109501:4"/> Archbiſhop that ever was, to the weakeſt and ſimpleſt of my Prede<g ref="char:EOLhyphen"/>ceſſors.</hi> Hereunto the Archbiſhop anſwered cunningly and ſtoutly <hi>That the times were altered, his Predeceſſors, which could not bring all things to paſs at the firſt daſh, were content to bear with many things and that (as men) they fell, and om<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tted their Duty often times: tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> what the Church had gotten was by the diligence of good Prelates, whoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Example he would follow thus far forth, as that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f he could not aug<g ref="char:EOLhyphen"/>ment the Priviledges of the Church in his time, yet ye would n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r con<g ref="char:EOLhyphen"/>ſent they ſhould be diminiſhed.</hi> This Anſwer being heard, all Men cried ſhame upon him, imputing the cauſe of theſe ſtirs upon him and ſo they parted at that time without reconciliation.</p>
+               <p>Another inſtance I will give, namely, that of Cardinal <hi>Pool,</hi> who in the Diſpenſation granted to the Realm in the time of Queen <hi>Mary,</hi> for determining Church Lands, <hi>&amp;c.</hi> Doth therein plainly declare, that it was of favour, and in regard of the Peace of the Realm, that he ſo diſpenſed; otherwiſe all Laws made in derogation of the Churches Rights, were void.</p>
+            </div>
+            <div n="3" type="section">
+               <head>SECT. 3.</head>
+               <p>3. The Pope diſchargeth the Clergy from all Payments of Money <note place="margin">
+                     <p>The King forbidden to l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>vy Subſid<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s upon the Clergy.</p>
+                     <p>So are his Laws in <hi>c. adverſus. Ext. de Immunitate Eccleſiarum, c. 1. de Immunit. Eccleſiar. in ſext c. Clericis, e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>dem.</hi>
+                     </p>
+                     <p>
+                        <hi>Roger Ho<g ref="char:EOLhyphen"/>veden An<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>al pars <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o<g ref="char:EOLhyphen"/>ſteriorp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, 817. Matth. Pa<g ref="char:EOLhyphen"/>ris p. 146, 15<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, 194, Holin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d p. 143, 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>7, 153, 170, G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>dwin</hi> in his Life.</p>
+                  </note> impoſed by any Temporal Prince, be it by way of Taxe or of Sub<g ref="char:EOLhyphen"/>ſidy, or for what neceſſity of his Realm ſoever, except the Pope be firſt made privy thereto, and give his aſſent: And Clerks yield<g ref="char:EOLhyphen"/>ing to ſuch Impoſition, do thereby fall into the Popes Curſe.</p>
+               <p>King <hi>John</hi> demanding of his Subjects, as well Spiritual as Temp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ral, a thirteenth part of their Goods and Chattels, <hi>Ge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ffery Plantagi<g ref="char:EOLhyphen"/>net,</hi> Archbiſhop of <hi>York,</hi> the Kings baſe Brother, oppoſed it. S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſaith Mr. <hi>Prynne</hi> out of divers Authors, That he obſtructed the levy<g ref="char:EOLhyphen"/>ing of <hi>Carvage</hi> (demanded and granted to the King by common con<g ref="char:EOLhyphen"/>ſent, and paid by all others) on the Demeſne Lands of his Church or Tenants, beating the Sheriff of <hi>York</hi>'s Servants, excommunicating the Sheriff himſelf by Name, with all his Aiders, and inter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icted his whole Province of <hi>York</hi> for attempting to levy it. Wherefore the King incenſed for theſe intollerable Aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onts, ſummoned him to anſwer theſe high Contempts; his not going over with him into <hi>Nor<g ref="char:EOLhyphen"/>mandy,</hi> when ſummoned; and alſo to pay him 3000 Marks due to his Brother King <hi>Richard:</hi> and by his Writs commanded all the Arch<g ref="char:EOLhyphen"/>biſhops Servants (where-ever they were found) to be impriſoned (as they were) for beating the Sheriffs Officers, and denying to give the King any of the Archbiſhops Wine paſſing through <hi>York;</hi> ſum<g ref="char:EOLhyphen"/>moned,
+<pb n="7" facs="tcp:109501:4"/> 
+                  <hi>Geoffery</hi> into his Court to anſwer all theſe Contempts; and iſſued Writs to the Sheriff of <hi>Yorkshire,</hi> to ſeize all his Goods, Tem<g ref="char:EOLhyphen"/>poralties, and to return them into the Exchequer, which was exe<g ref="char:EOLhyphen"/>cuted accordingly. The King and Queen repairing to <hi>York</hi> the next Mid-Lent, the Archbiſhop upon more ſober thoughts, made his Peace with the King, ſubmitted to pay ſuch a Fine for his Offences, as four Biſhops, and four Barons elected by them, ſhould adjudge, and abſolved <hi>William de S utvil</hi> the Sheriff, and <hi>James de Paterna,</hi> whom he had excommunicated, and recalled his former <hi>Interdict.</hi>
+               </p>
+               <p>King <hi>Edward</hi> the Firſt was in a like caſe reſiſted, by means of <hi>Robert Kilwarby,</hi> Archbiſhop of <hi>Canterbury.</hi> For when the King in Parliament, holden at St. <hi>Edmonds-bury,</hi> demanded there a Subſidy of his Subjects, the Temporalty yielded an Eighth part of the Goods of Citizens and Burg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſes; and of other Lay Perſons the twelfth part: but the Clergy encouraged by the Archbiſhop, who had pro<g ref="char:EOLhyphen"/>cured <note place="margin">This is re<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rted by <hi>William Thorn</hi> a Monk of <hi>Canterbury.</hi>
+                  </note> from Pope <hi>Boniface</hi> the VIII Immunity from Subſidies (which I take to be the ſame that is before recited, <hi>Ex. c. 1. de Immunitate Eccleſiarum in Sexto)</hi> refuſed to yield any thing; whereupon the King called another Parliament at <hi>London</hi> without the Clergy, where the Goods of the whole Clergy were declared to be forſeited to the King; ſo as afterwards moſt of the Clergy were content with any condition to redeem that forfeiture.</p>
+            </div>
+            <div n="4" type="section">
+               <head>SECT. IV.</head>
+               <p>4. The Kings own Subjects were by the Pope armed with Cen<g ref="char:EOLhyphen"/>ſures <note place="margin">Subjects Armed a<g ref="char:EOLhyphen"/>gainſt their Soveraign.</note> of Excommunication, Interdiction, <hi>&amp;c.</hi> by them to be de<g ref="char:EOLhyphen"/>nounced againſt him, for redreſs of ſuch wrongs as i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pleaſeth them to take themſelves injured by.</p>
+               <p>Pope <hi>Innocent</hi> IV. hath decreed, that a Prelate having wrong of<g ref="char:EOLhyphen"/>fered him by a Temporal Judge, may defend himſelf with the Spi<g ref="char:EOLhyphen"/>ritual Sword of Excommunication. <hi>c. Dilecto. D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſententia Excom<g ref="char:EOLhyphen"/>municationis in Sexto.</hi>
+               </p>
+               <p>In the Fortieth year of King <hi>Henry</hi> the Third, <hi>Boniface,</hi> Archbiſhop of <hi>Canterbury,</hi> made a large Conſtitution, wherein he ſetteth forth how the Clergy ſhall proceed againſt the King, by whoſe Writ a Clerk is called in his Court to anſwer for Matters pertaining to the Eccleſia<g ref="char:EOLhyphen"/>ſtical Judge; and declareth that it ſhall be lawful to interdict all the Kings Lands and Poſſeſſions. This Archbiſhop had ſummoned a Council of Biſhops and Archdeacons, that like the Martyr <hi>Thomas</hi> (ſaith <hi>Matthew Paris)</hi> he might encounter the Enemies and Rebels of the Church, and be a Wall of Defence unto it, as was pretended. The King directed his Prohibitions to him and the Biſhops, not to meet
+<pb n="8" facs="tcp:109501:5"/> in this Council, which they contemn. The Articles and Canon made in that Council, were againſt the Kings Prerogative Eccleſia<g ref="char:EOLhyphen"/>ſtical and Temporal; his Temporal Judges, Courts, Laws, Prohi<g ref="char:EOLhyphen"/>bitions, Writs, and Judgments: Exempting of themſelves, their Clerks, Officers, Lands and Goods, from their Secular Juriſdiction and Judicatures: Decreeing Interdicts and Excommunications againſt the King, his Judges, Officers, Lands, Caſtles, and Lay-ſubjects for which Liberties they reſolved to contend even unto Death. The Archbiſhop was forced by the King and Barons, to fly the Kingdom for this and other like Conſtitutions, againſt whom they complain<g ref="char:EOLhyphen"/>ed, appealed, and ſent their Proctors to <hi>Rome.</hi> Which Conſtitutions are yet printed in <hi>Lyndewood,</hi> and <hi>Aton,</hi> and urged for the Canon-Law of this Realm by ſome aſpiring Prelates, and Ignorant Canoniſts of late times (ſaith Mr. <hi>Prynne)</hi> though always oppoſed in ſuch man<g ref="char:EOLhyphen"/>ner <note place="margin">
+                     <hi>Pyrnn</hi>'s Ex<g ref="char:EOLhyphen"/>act Hiſt. vol. 2.</note> as hath been related; yea<g ref="char:punc">▪</g> totally neglected, or ſeldome put in uſe in times of Popery by thoſe which made them: as <hi>Lyndewood</hi> himſelf acknowledgeth in his Epiſtle to <hi>Henry</hi> Archbiſhop of <hi>Canterbury,</hi> be<g ref="char:EOLhyphen"/>fore his <hi>Provinciale.</hi>
+               </p>
+            </div>
+            <div n="5" type="section">
+               <head>SECT. V.</head>
+               <p>5. The King's Prohibition diſobeyed by the Popes Warrant is ano<g ref="char:EOLhyphen"/>ther Grievance complained of in thoſe days. For Pope <hi>Eugenius</hi> hath <note place="margin">The Kings Prohibiti<g ref="char:EOLhyphen"/>ons Con<g ref="char:EOLhyphen"/>temned.</note> ſo decreed, That no Spiritual Judge ſhall ſtay from proceeding in any Cauſe termed Eccleſiaſtical, in regard of the Kings Prohibitions <hi>c. Decernimus Extra de judiciis.</hi>
+               </p>
+               <p>The Prohibitions ſent by our Kings, their Council, Courts, Judges to Archbiſhops, Biſhops, Archdeacons, Officials, and other Ecc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>ſiaſtical Perſons, were ſome of them againſt admitting Clerks to Be<g ref="char:EOLhyphen"/>nefices or Prebendaries, till the Title were tried in the Kings Courts Some againſt holding <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lea of Advowſons of Chappels, Churches, Pre<g ref="char:EOLhyphen"/>bendaries; or determining the Rights of Patronages to Churches: Chappels, and Prebendaries, in Ecleſiaſtical Courts, or before Popes Delegates: Againſt Alienation of Lands <hi>in Capite, in Mortmain,</hi> or otherwiſe: Againſt granting Adminiſtrations of Inteſtates Goods, Debtors, or Accomptants to the King, till the Kings Debts ſatisfied. Againſt Appeals to Popes, or any other (in caſes of Certificates of <note place="margin">
+                     <hi>Pryn</hi>'s <hi>Hiſt.</hi> of <hi>Popes</hi> U<g ref="char:EOLhyphen"/>ſurpations. Vol. 2. p. 393 394, 878, 879.</note> Baſtardy) to the Kings Courts; or trying Baſtardy in Spiritual Courts, their Canons croſſing the Common Law therein. Againſt Abbots, or Convents, borrowing, or others, lending them, Moneys upon Bond, without their joynt conſent and the Kings, <hi>&amp;c.</hi> A<g ref="char:EOLhyphen"/>gainſt Archbiſhops Conſecrating Biſhops Elect, not approved of by the King after their Election. Againſt their holding and meeting in
+<pb n="9" facs="tcp:109501:5"/> Convocations or Council, or acting and doing any thing in them, prejudical to the King or Kingdom. Some Prohibitions were a<g ref="char:EOLhyphen"/>gainſt Bakers imprinting the ſign of the Croſs; <hi>Agnus Dei,</hi> or name of <hi>Jeſus,</hi> upon Sale-bread. Some againſt Biſhops, and other their Officers, citing Lay Perſons to make Inquiſitions, Preſent<g ref="char:EOLhyphen"/>ments, or give teſtimony upon Oath, or excommunicating them for not taking Oaths in any caſe, except in matters of Matrimony and Teſtament; being againſt the Kings Prerogative, Law, or Cuſtom of the Realm, <hi>&amp;c. Againſt</hi> their holding Plea of any Chat<g ref="char:EOLhyphen"/>tels or Goods, which concerned not Marriage or Teſtament; or of Goods Teſtamentary, for which there is Suit in the Kings Ex<g ref="char:EOLhyphen"/>chequer. <hi>Againſt</hi> their Citing, Excommunicating, or Interdicting any of the Kings Barons, Bailiffs, Judges, Officers, Sheriffs, for executing the Kings Writs, or Miſdemeanours in the execution of their Offices; or any of his Tenants <hi>in Capite,</hi> or of his Demeſne Lands, Cities, Caſtles, without his ſpecial Licenſe, or Lieutenants, <hi>&amp;c. Againſt</hi> Archbiſhops, Biſhops, Convents, or others, preſenting to Livings, or Prebends belonging to the King, during Vacations. <hi>Againſt</hi> diſturbing the Poſſeſſions of the Kings Clerks, preſented by him to Benefices, or Prebends; or Judgments in his Courts by any proceſs out of Eccleſiaſtical Courts; or from the Pope or his Deligates. <hi>Againſt</hi> Suits in Eccleſiaſtical Courts, <hi>Pro laſione fidei,</hi> or breach of Oaths in civil Contracts. <hi>Againſt</hi> ſuing there for Lands deviſed by Cuſtom, or Actions of Debt deviſed by the Teſtator. <hi>Againſt</hi> Ordinaries, malicious Excommunications, or Arreſting, or Impriſoning Perſons unjuſtly Excommunicated by them, or for bringing Prohibitions to prevent them. <hi>Againſt</hi> the bringing of any Bulls, Letters from, or ſending any Letters to the Pope or Court of <hi>Rome,</hi> prejudicial to the King or Realm. <hi>Againſt</hi> citing, or drawing any of the Kings Subjects for any Suits to <hi>Rome,</hi> or out of the Realm, by the Pope, his Delegates, or others. <hi>Againſt</hi> collecting any Aid, Diſme, or Money for the Pope or others, by the Popes Authority, without the Kings ſpecial Licence and Conſent, by Popes Nuncioes, Legats, Biſhops, or any others. <hi>Againſt</hi> Popes Proviſions to Be<g ref="char:EOLhyphen"/>nifices, Prebendaries, <hi>&amp;c.</hi> belonging to the Kings Preſentation in right of his Crown; or by his Prerogative in Vacant Biſhopricks, Monaſteries, Wardſhips; or to his free Chappels, or Churches im<g ref="char:EOLhyphen"/>propriated. <hi>Againſt</hi> Clerks and others going to <hi>Rome,</hi> without taking a ſpecial Oath to procure nothing to the Kings or Kingdoms damage. <hi>Againſt</hi> Popes Legates or Agents, coming into the Realm, unleſs ſent for; and taking an Oath to do or bring nothing to the
+<pb n="10" facs="tcp:109501:6"/> prejudice of the King, Church, or Kingdom. <hi>Againſt</hi> receiving or aſſiſting a Biſhop or Archbiſhop, made by the Popes Proviſion <hi>Againſt</hi> Popes and their Delegates, Sequeſtration of the Temporal<g ref="char:EOLhyphen"/>ties, Goods and Profits of Monaſteries. <hi>Againſt</hi> Sheriffs or Gaolers<g ref="char:punc">▪</g> detaining Clerks in Priſon after demand by their Ordinaries. <hi>A<g ref="char:EOLhyphen"/>gainſt</hi> the <hi>Cruce ſignati,</hi> or others going over Sea out of the Realm, without the Kings ſpecial Licence. <hi>Againſt</hi> offering violence to the Goods or Perſons of Clerks, Churches, or Church-yards. <hi>Againſt</hi> removing Moneys of Delinquents, and Alliens out of Monaſtories. <hi>Againſt</hi> offering Violence to Jews or their Goods. <hi>Againſt</hi> Noble<g ref="char:EOLhyphen"/>mens ſiding with Biſhops in their Quarrels. <hi>Againſt</hi> Suits between Perſons for Tithes, when the Patron may be prejudiced, or for the Money of Tithes ſold; until it be diſcuſſed by the King and Council, whether the Right belongs to the King, or whether the Cauſe belong to the King or the Eccleſiaſtical Court. <hi>Againſt</hi> Ex<g ref="char:EOLhyphen"/>amining things in the Eccleſiaſtical Court, that have been judged in the Kings Courts, in caſes of Preſentations to Churches; and the like. <hi>Againſt</hi> Womens Marriages, who held Caſtles, or Lands <hi>in Capite,</hi> without the Kings Licence.</p>
+            </div>
+            <div n="6" type="section">
+               <head>SECT. 6.</head>
+               <p>6. Another Grievance was, That the King was forbidden in <note place="margin">Reſtraint of the Com<g ref="char:EOLhyphen"/>mon Law.</note> cauſes of Clerks, to uſe the Canon Laws of his Realm, but is commanded to decide them only by the Common Law. <hi>c. Quod Clericus de foro competenti.</hi> Some Cauſes ever taken to be meerly Civil, and to appertain to the Crown, were drawn to the Eccleſia<g ref="char:EOLhyphen"/>ſtical <note place="margin">Uſurpation againſt Common Law.</note> Authority: As namely, The right to determine Queſtions of Patronage, whereof Pope <hi>Alexander</hi> the Third wrote to the King of <hi>England,</hi> that it was to be tried by Eccleſiaſtical Laws, and be<g ref="char:EOLhyphen"/>fore an Eccleſiaſtical Judge; <hi>cap 3. Extra de judiciis.</hi> Again in ſome Cauſes Civil, the King was reſtrained from the uſe of the Com<g ref="char:EOLhyphen"/>mon <note place="margin">The King not permit<g ref="char:EOLhyphen"/>ted to uſe the Com<g ref="char:EOLhyphen"/>mon Law in ſome Caſes of Lay Per<g ref="char:EOLhyphen"/>ſons.</note> Law of his Realm, though the ſame concern Lay Perſons: As when a Woman by Oath maketh releaſe of her Joynture or Dower, the temporal Judge is compellable by the Ordinary his Excommu<g ref="char:EOLhyphen"/>nication to judge of the Oath, according to the Canon Law. <hi>c. Licet &amp; jure jurand.</hi>
+               </p>
+               <p>And where again an Eccleſiaſtical Judge hath determined any Cauſe according to the Canon Law, if the ſame Matter be brought before a Temporal Judge, he muſt allow the Judgment of the Spiri<g ref="char:EOLhyphen"/>tual Judge, that it be pleaded before him; <hi>cap. ult Extrade exeptionibus.</hi>
+               </p>
+               <p>But contrariwiſe, If a Clerk be firſt Condemned by a Temporal Judge, the Canon Law hath no regard thereof, nor receiveth any thing for proof that was done before him; <hi>c. At ſi Clerici de judiciis.</hi>
+               </p>
+            </div>
+            <div n="7" type="section">
+               <pb n="11" facs="tcp:109501:6"/>
+               <head>SECT. 7</head>
+               <p>7. That under the general colour of their Authority, to main<g ref="char:EOLhyphen"/>tain <note place="margin">Civil Wrongs made Cauſes Ec<g ref="char:EOLhyphen"/>cleſiaſtical.</note> Eccleſiaſtical Liberties, ſome Wrongs oftered to Church Mon in their Lands and Poſſeſſions, which otherwiſe were to be tried by the Laws of the Land, are by them drawn to their Courts, as where Entries be made by Lay Men upon Church Lands.</p>
+               <p>
+                  <hi>Simon Mepham</hi> Archbiſhop of <hi>Canterbury,</hi> in a Conſtitution by him and the Clergy publiſhed in the year 1332, hath decreed, that e<g ref="char:EOLhyphen"/>very one which invadeth the Poſſeſſions of an Eccleſiaſtical Perſon, ſhall be judged a Violator of Eccleſiaſtical Liberty, and for the ſame Excommunicate.</p>
+            </div>
+            <div n="8" type="section">
+               <head>SECT. 8.</head>
+               <p>8. Generally the Pope claimeth to be judge of his own Liberties, <note place="margin">The Pope ſole Judge of his own Priviledges</note> and ſuffereth no Man to examine or determine of them but him<g ref="char:EOLhyphen"/>ſelf. <hi>c. Cum veniſſent extra dejudiciis.</hi>
+               </p>
+               <p>Whereas it is an old Maxime in all Laws, that <hi>Nemo in propria cauſa poteſt eſſe Judex.</hi> That no Man can be judge in his own Cauſe (eſpecially if Judge and Witneſs too) yea Pope <hi>Gregory</hi> the Firſt, and a whole Council, denounced an <hi>Anathema</hi> againſt the Pope himſelf, or any other, that ſhould preſume to be a Judge in his own Cauſe; <hi>Sive in ruſticano, ſive in urbano pradio:</hi> whence <hi>Bartholemeus Baxienſis,</hi> Dr. <hi>John Thierry,</hi> and other Canoniſts, in their Gloſſes on <hi>Gratian,</hi> do reſolve down-right that, <hi>Papa in ſua cauſa Judex eſſe non debet;</hi> That the Pope ought not to be Judge in his own Cauſe. Yet <note place="margin">Gratian Cauſ. 16. qu. 6. Alvar. Pe<g ref="char:EOLhyphen"/>lag. de Planctu Ec<g ref="char:EOLhyphen"/>cleſ. l. 1. Artic. 34, 35.</note> 
+                  <hi>Alvarus Pelagius,</hi> affirms the contrary upon this ſtrong Preſumpti<g ref="char:EOLhyphen"/>on and Suppoſition; <hi>Quod non debet aliquam cauſa a ſe remittere, im<g ref="char:EOLhyphen"/>mo non poteſt (licet ſuſpectus) quamdiu eſt Papa. Papa enim aut ſanctus eſt, aut ſanctus praeſumitur: non enim praeſumendum eſt, quod alias facit Papa quam Chriſtus vel Petrus, cujus eſt Vicarius &amp; Succeſſor.</hi> That the Pope ought not to remit any Cauſe from himſelf: yea, he may not (al<g ref="char:EOLhyphen"/>though ſuſpected) as long as he is Pope; for (ſaith he) either the Pope is Holy, or is preſumed to be Holy: for it is not to be preſumed that a Pope can do otherwiſe than Chriſt, whoſe Vicar he is, or <hi>Peter,</hi> whoſe Succeſſor he is. But this is a Maxime frequently reſolved in Law Books, by all the Judges of this Realm, <hi>That none can be Judge in his own Caſe;</hi> who have farther adjudged, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r<g ref="char:EOLhyphen"/>liament make any Man Judge in his own Caſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the very Act it ſelf <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> void in Law, being againſt the Law of Nature, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hich <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and all Judgments given thereon are void.</hi>
+               </p>
+            </div>
+            <div n="9" type="section">
+               <head>SECT 9.</head>
+               <p>9. The Pope challengeth to himſelf Judgement of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> they extend, and how they are to be taken, and giveth order for
+<pb n="12" facs="tcp:109501:7"/> redreſs of the breach of them. Where therefore every Prince at his Coronation taketh an Oath for the good Government of his Realm, <note place="margin">Princes cal<g ref="char:EOLhyphen"/>led in que<g ref="char:EOLhyphen"/>ſtion for their Go<g ref="char:EOLhyphen"/>vernment.</note> he is compelled to anſwer to his own Subjects at the Court of <hi>Rome</hi> to every Quarrel and Pretence of his Miſgovernment, as Matters falling within the Popes Authority, to examine and reform the breach of Oaths. So did Pope <hi>Honorius</hi> the Third, in a Cauſe of a King of <hi>Hungary,</hi> as appeareth in the Popes Decretals. <hi>c. Intellect. Extra de jure jurando.</hi>
+               </p>
+               <p>One of their Canoniſts of great Reputation, and a Cardinal, wri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth thus: <hi>Si a Procerbus acouſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tur Princ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ps apud Pontificem, &amp; non ſatisf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ciat, vel a apa ſe poni pote v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l a Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ceribus voluntate Papa.</hi> If a Prince be accuſed by his Nobles unto the Pope, and doth not give Sati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>faction; either he may be laid aſide by the Pope or by the Nobles, at the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>opes pleaſure. <hi>c. Alius. 15. q. 6.</hi>
+               </p>
+            </div>
+            <div n="10" type="section">
+               <head>SECT. 10.</head>
+               <p>10. He taketh upon him alſo to aſſoil Men from keeping their Oaths, <note place="margin">Aſſurance betwixt the King and his Subjects diſturbed.</note> whereby do grow Diſturbances, not only of Leagues betwixt one Prince and another, but alſo of that Aſſurance which a Prince hath of his own Subjects, and which ſometimes the Subjects have of the Prince, in Compoſition of Quarrels that do happen between them. <hi>Bellarmine,</hi> in the Second <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hapter of the Book againſt <hi>Barckley,</hi> ſaith, <hi>Pontifex po eſt d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſpenſare in votis &amp; juramentis, quae Deus ipſe juſſit reddi, &amp; qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rum olutio eſt de jure divino. The Pope can give Diſpenſations from Vows and Oaths, which God hath commanded to be fulfilled, and the keep<g ref="char:EOLhyphen"/>ing whereof is of Divine right.</hi> And you need not wonder at this, if <note place="margin">Bellarm. lib. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. de Pontifice cap. 5.</note> you conſider what he ſaith elſewhere. <hi>If the Pope did err</hi> (ſaith he) <hi>commanding Vices and prohibiting Vertues, the Church ſhould be obliged to believe, that Vices are good, and Vertues are evil, unleſs ſhe ſhould ſin againſt Conſcience.</hi>
+               </p>
+               <p>In the year 882. <hi>Marin,</hi> or <hi>Martin,</hi> attained to the Papal Dignity, of whom <hi>Platina</hi> ſaith. that he came to the Popedom by ill ways. There was then one <hi>Formoſus</hi> Biſhop of <hi>Porto,</hi> who by the will of Pope <hi>John</hi> IX; had been obliged by Oath never to receive Epiſcopacy, though it were preſented unto him: But that <hi>Marin</hi> delivered him from that Oath by a Diſpenſation, giving him leave to be forſworn with a good Conſcience.</p>
+               <p>At that time the Counts of <hi>Tuſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ulum</hi> had ſuch a Power at <hi>Rome,</hi> that they made Popes ſuch as they liſted: <hi>Marin</hi> being dead, they promoted <hi>Adrian</hi> the Third to the Popedom, and after him <hi>Stephen</hi> the VII, to whom <hi>Formoſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> ſucceeded, who made no difficulty to re<g ref="char:EOLhyphen"/>ceive the Popedom againſt his Oath. This <hi>Formoſus</hi> had but a ſhor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:109501:7"/> Reign, he had <hi>Boniface</hi> the VII for his Succeſſor, whom <hi>Stephen</hi> the VIII ſucceeded, who unburied the Body of <hi>Formoſus,</hi> and having arrayed him with his Prieſtly Robes, put him in full Synod upon the Popes Seat. Then having cut off his Fingers wherewith he gave the Bleſſing, he cauſed him to be dragged and caſt into the River <hi>Tiber,</hi> declaring him a Perjured Man, and an Unlaw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul Pope. That <hi>Stephen</hi> for his Tyranies was taken by the Roman People and ſtrangled in Priſon.</p>
+               <p>To that <hi>Stephen, Romanus</hi> ſucceeded, and to him <hi>John</hi> the X; both which reſtored <hi>Formoſus</hi> again to his good Name: For this <hi>John</hi> aſ<g ref="char:EOLhyphen"/>ſembled a Counc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l at <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>venna,</hi> where all the Acts of <hi>Formoſus</hi> were made valid, and his Perjury approved. But <hi>Sergins</hi> that ſucceeded, abrogated all that, and again unburied the Body of <hi>Formoſus,</hi> with a thouſand Reproaches. It is a particular ſtain to that Age, that in it the Pope began to authorize Perjury, and to diſpenſe from Oaths. See the 6th Queſtion of the 15th Cauſe of the Decree, which is full of ſuch Examples. But leaving this, let us return to the Matter in hand, how <hi>Thomas Beck<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t</hi> was diſcharged of his Oath, it hath been ſhewn before; and the Examples be many, of Subjects that have ſought and obtained like Liberty at the Popes hands, in matter of their Allegiance and Duty promiſed by Oath. King <hi>John</hi> had taken an Oath to obſerve the Laws of King <hi>Henry</hi> the Firſt, of <hi>Edward</hi> the Confeſſor, and the great Charter of Liberties: but he violated this Oath, and was abſolved from it ſoon after by the Pope. And we find that Pope <hi>
+                     <g ref="char:V">Ʋ</g>rban</hi> the Fourth abſolved King <hi>Henry</hi> the Third from his Oath made to his Subjects, for the obſervation of certain Articles, <note place="margin">
+                     <hi>Mat. Paris</hi> fol. 1322.</note> called, <hi>The Proviſions of</hi> Oxford, whereto he had condeſcended, after long trouble, for the peace and quiet of his People. Pope <hi>Clement</hi> the V alſo did the like to King <hi>Edward</hi> the Firſt, touching his Oath which he had made to the Barons of this Realm. <hi>Thomas Waiſingham</hi> f. 61.</p>
+            </div>
+            <div n="11" type="section">
+               <head>SECT. 11.</head>
+               <p>11. The Pope taketh upon him Authority to Examine Princes Ti<g ref="char:EOLhyphen"/>tles, <note place="margin">Princes Wars exa<g ref="char:EOLhyphen"/>mined by the Pope; <hi>c. Sicut ex<g ref="char:EOLhyphen"/>tra in Ju<g ref="char:EOLhyphen"/>rejurando.</hi>
+                  </note> and the Cauſes of their Wars, and to compound their Con<g ref="char:EOLhyphen"/>troverſies at his pleaſure, compelling them to abide his Order upon pain of Excommunication; Interdiction, <hi>&amp;c.</hi> A matter very dan<g ref="char:EOLhyphen"/>gerous, conſidering the Corruption of Juſtice in that See (whereof there be ſo many Examples in Hiſtories, as would fill a large Treatiſe) and that the Pope can hardly be indifferent, his Affairs and State being ſuch as they are for the moſt part linked with the one part or the o<g ref="char:EOLhyphen"/>ther. <hi>The claim of this Authorlty appeareth in c. Tram. Extra de ordine Cognition.</hi>
+               </p>
+               <pb n="14" facs="tcp:109501:8"/>
+               <p>
+                  <hi>David,</hi> Prince of <hi>North Wales,</hi> having Wars with King <hi>Henry</hi> III committed himſelf, his People, and his Land, into the hands of the Pope, promiſing to hold his Right of him, and to pay Five hundred Marks by the year. Several Charters were made to the King by the Prince and Nobles of <hi>North Wales,</hi> ratified by their Oaths and vo<g ref="char:EOLhyphen"/>luntary Submiſſions to Eccleſiaſtical Cenſures of Excommunication and Interdict, by the Biſhops therein nominated, in caſe of Viola<g ref="char:EOLhyphen"/>tion. And the manner of his Oath is ſet down by <hi>Matth. Paris. Et</hi> 
+                  <note place="margin">
+                     <hi>Matth. Pa<g ref="char:EOLhyphen"/>ris.</hi> p. 605, 607. <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t. Weſtm.</hi> p. 180, 181, 182.</note> 
+                  <hi>ad omnia firmiter tenenda, Ego David juravi ſuper crucem ſanctam, quam coram me feci deportari. And firmly to hold all theſe things, I</hi> David <hi>have ſworn upon the Holy Croſs, which I have cauſed to be carried before me.</hi> And the Reverend Father <hi>Howel,</hi> Biſhop of St. <hi>Aſaph,</hi> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my requeſt (ſaith <hi>David)</hi> hath firmly promiſed in his Order that he will do all theſe things aforeſaid, and procure them to be obſerved by all the means that he can And <hi>Ednevet Wagan</hi> at my Command ſware the ſame thing upon the Croſs aforeſaid.</p>
+               <p>But the Pope layeth hold of the Cauſe, the Controverſie being committed by him unto two of his Clergy. The King was called be<g ref="char:EOLhyphen"/>fore <note place="margin">
+                     <hi>Matth. Pa<g ref="char:EOLhyphen"/>ris</hi> fol. 880, 881.</note> them to anſwer <hi>David</hi>'s complaint; which, the King ſeeing how ſmall likelihood there was of Indifferency, refuſed to do.</p>
+               <p>King <hi>Edward</hi> the Firſt having war with <hi>Scotland,</hi> and being far en<g ref="char:EOLhyphen"/>tred into the Land, was by Commandement of the Pope enjoyned to leave off his wars againſt that Realm, upon pretence that <hi>Scotland</hi> and the people thereof, were by his ſpecial exemption diſcharged from all Authority of other Princes, and appertained to his See. <hi>Thomas Walſingham</hi> addeth, That the King refuſing thus to be order<g ref="char:EOLhyphen"/>ed, was moved thereto again by the Pope, and commanded to re<g ref="char:EOLhyphen"/>ceive Order by way of Juſtice in his Court. The King having received Pope <hi>Boniface</hi>'s Letters, aſſembleth a Parliament at <hi>Lincoln,</hi> by whoſe advice he addreſſeth Letters Reſponſal to the Pope. And the Lords Temporal, in the name of the whole Parliament, anſwered the Pope, <hi>That the King of</hi> England <hi>ought by no means to anſwer in judgement in any Caſe, nor ſhould bring his Rights into doubt, nor ought to ſend any Pro<g ref="char:EOLhyphen"/>ctors or Meſſengers to the Pope,</hi> &amp;c. <hi>And that they will not ſuffer their Lord the King to do, or by any means to attempt the premiſſes, bein<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſo un<g ref="char:EOLhyphen"/>accuſtomed, and not heard of before. Dated at</hi> Lincoln <hi>in the year 1301, in the 28th year of the Reign of King</hi> Edward <hi>the Firſt.</hi>
+               </p>
+               <p>But the ſame King in time of war with the <hi>French King,</hi> was requi<g ref="char:EOLhyphen"/>red <note place="margin">
+                     <hi>Walſing<g ref="char:EOLhyphen"/>ham,</hi> fol. 41.</note> on the behalf of Pope <hi>Boniface</hi> VIII by his Legat, to put their whole quarrel to be by way of Arbitrament decided by the Pope: And fur<g ref="char:EOLhyphen"/>ther, he was enjoyed upon pain of Excommunication to take truce
+<pb n="15" facs="tcp:109501:8"/> with the <hi>French King</hi> for two years; whereto he gave place: ſaith <hi>Thomas Walfingham.</hi>
+               </p>
+            </div>
+            <div n="12" type="section">
+               <head>SECT. 12.</head>
+               <p>12. Another Grievance was, The departure of Prelats and other of <note place="margin">Subjects de<g ref="char:EOLhyphen"/>parture out of the Realm a<g ref="char:EOLhyphen"/>gainſt the Kings will.</note> the Clergy forth of the Realm, and leaving the ſervice thereof againſt the Kings will: Of which ſort ſome voluntarily have gone upon co<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our of devotion, as <hi>Anſelm</hi> Archbiſhop of <hi>Canterbury</hi> in the time of King <hi>William Rufus,</hi> notwithſtanding that he was expreſly forbidden by the King, and told, that if he went, he ſhould no more return in<g ref="char:EOLhyphen"/>to his Realm, departed from hence, pretending that he went, <hi>Ad</hi> 
+                  <note place="margin">
+                     <hi>Matth. Pa<g ref="char:EOLhyphen"/>ris</hi> fol. 29.</note> 
+                  <hi>Viſitandum Limina Apostolorum,</hi> To viſit the Threſholds of the Apo<g ref="char:EOLhyphen"/>ſtles. It may be he pretended his Oath, for at that time Biſhops u<g ref="char:EOLhyphen"/>ſed to bind themſelves by Oath, that once every year they ſhould viſit the See of <hi>Rome,</hi> except they be otherwiſe diſpenſed withal; which Oath by the Canon Law is now taken by every Popiſh Biſhop: <hi>Ego N Epiſcopus N. ab hac hora in antea fidelis &amp; obediens cro beate Pe<g ref="char:EOLhyphen"/>tro, ſanctaeque Apoſtolica Romanae Eccleſiae, ac Domino noſtro S. P. ſuiſque Succeſſoribus canonice intrantibus. Non ero in conſilio, aut conſenſu, vel fa<g ref="char:EOLhyphen"/>cto, ut vitam perdant, aut membrum, ſeu capiantur mala captione, &amp;c.</hi>
+               </p>
+               <p>Others again have been called forth of the Realm to the Popes ſer<g ref="char:EOLhyphen"/>vice, as <hi>Peter</hi> Biſhop of <hi>Wincheſter,</hi> in the time of King <hi>Henry</hi> the Third, was called to <hi>Rome</hi> by the Pope, pretending that he would im<g ref="char:EOLhyphen"/>ploy him in compounding certain differences, which were betwixt him and the Inhabitants of <hi>Rome,</hi> and betwixt him and the <hi>Grecians.</hi> But truly (as <hi>Matthew Paris</hi> noteth) the Pope knew him to be a very rich <note place="margin">
+                     <hi>Matth. Pa<g ref="char:EOLhyphen"/>ris</hi> ſol. 549.</note> Biſhop, and therefore ſent for him to <hi>Rome,</hi> to aſſiſt him, not only with his Advice in his Military Affairs, but alſo with his Purſe a<g ref="char:EOLhyphen"/>gainſt the <hi>Romans</hi> and <hi>Grecians:</hi> And the Pope having made as much of him as he could for thoſe ends, importuned the King for his re<g ref="char:EOLhyphen"/>turn into <hi>England;</hi> which the King aſſenting to, wrote thus to the Pope and Biſhop:</p>
+               <p>
+                  <hi>Dom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>no Papae Rex, &amp;c ſignificavit nobis ſanctitas veſtra per venerabi<g ref="char:EOLhyphen"/>lem</hi> 
+                  <note place="margin">Clauſ. 19 H 3. Part. 2. memb. 2. intus.</note> 
+                  <hi>Patrem A. Coventrenſem &amp; Litchfeldenſem Epiſcopum, &amp; dilectum &amp; fidel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m noſtrum P. Saracenum Civem Romanum, quod gratum habere<g ref="char:EOLhyphen"/>tis &amp; acceptum, ſi venerabilis Pater P Wintonienſis Epiſcopus, cum gra<g ref="char:EOLhyphen"/>tia noſtra reverti poſſet in Angliam, &amp; ſicut ad ejus ſpectat officium curam ſecurus genere paſtoralem, &amp; ſuper hoc ex parte ſinceritatis v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtrae nos ro<g ref="char:EOLhyphen"/>gaverunt. Ad quod Sanctae Paternitati veſtrae duximus reſpondendum. Quod cum idem Epiſcopus Regnum noſtrum ultimo exivit gratis, &amp; motu ductus proprio, potius quam noſtram, vel alterius compulſionem: Et <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ti<g ref="char:EOLhyphen"/>amſi bene r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>colitis, ad preces veſtras, nob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s ſpecialiter inde directas ſedem adi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t Apoſtolicam. <g ref="char:V">Ʋ</g>nde ſi memoratus Epiſcopus voluntatem habuerit re<g ref="char:EOLhyphen"/>vertend,
+<pb n="16" facs="tcp:109501:9"/> &amp; in Regno noſtro commorandi, bene placet nobis ipſus adventus Nec erit qui ipſum ſuper hoc aliquatenus impediat, aut cum redieri tranquilitatem ipſius perturbet, licet etiam graviter verſus ipſum movere<g ref="char:EOLhyphen"/>mur, ad Inſtantiam veſtram conceptum rancorem, ſiquis eſſet, penitus e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> remitteremus, parati et expoſiti, tanquam filius Sanctae Romanae Eccleſi <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> devotiſſimus, in hiis &amp; aliis veſtris inhaerere Conciliis, &amp; voluntatis veſtr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pro viribus noſtris bene placitum ad implere. Teste Rege 40 die Martii Anno &amp;c.</hi> XIX. The King wrote after the like manner unto the Bi<g ref="char:EOLhyphen"/>ſhop: Others, and thoſe very often, were called to <hi>Rome,</hi> to anſwer Complaints, or Private Mens Suits, by which occaſion the King loſt the uſe of their Service, and a great part of the Wealth and Subſtance of this Realm was ſpent in the Court of <hi>Rome.</hi>
+               </p>
+            </div>
+            <div n="13" type="section">
+               <head>SECT. 13.</head>
+               <p>13. It is well known that the King hath ſpecial Intereſt in the <note place="margin">Inveſtiture into Biſhop<g ref="char:EOLhyphen"/>ricks, and the Kings aſſent in choice of Biſhops, taken from him.</note> Choice and Inveſtitures of Prelates unto Biſhopricks; both becauſe a great part of the good Government of his People dependeth upon the good Government of that State, and alſo becauſe in thoſe times he furniſhed himſelf with Counſellours taken out of the Number, and employed others in places of weighty and moſt neceſſary Services of the Realm.</p>
+               <p>Wherefore the Kings of <hi>England</hi> were ever by the Ancient Cu<g ref="char:EOLhyphen"/>ſtoms and Laws of the Land, allowed their Aſſent and Directions in all Elections of Perſons unto thoſe places.</p>
+               <p>This right hath been ſtrangely oppugned by divers Popes, ſome of them diſturbing Elections made by the Conſent of the King; and o<g ref="char:EOLhyphen"/>thers beſtowing Biſhopricks at Pleaſure, without Election at all, and againſt the Kings will.</p>
+               <p>The firſt that ſtirred that Quarrel in <hi>England,</hi> was <hi>Anſelm</hi> Arch-bi<g ref="char:EOLhyphen"/>ſhop of <hi>Canterbury:</hi> For when the Kings of <hi>England,</hi> needy of Mo<g ref="char:EOLhyphen"/>neys, borrowed of the Clergy great Loans, never to pay again, he to exempt himſelf from Subjection to the King, laboured to make his Archbiſhoprick to depend meerly on the Pope, not on the King, al<g ref="char:EOLhyphen"/>though he had acquired it by the Conceſſion and free Gift of the King.</p>
+               <p>
+                  <hi>Anſelm</hi> then being promoted in the year 1092 to the Archbiſhoprick by King <hi>William Rufus,</hi> the King having franckly beſtowed that rich Biſhoprick upon him, ſoon after would extort from him a great Sum of Money for the exigence of his Affairs, as claiming ſome recom<g ref="char:EOLhyphen"/>pence for his Gift. <hi>Anſelm</hi> refuſed to give it, and ſtealing away pri<g ref="char:EOLhyphen"/>vately out of <hi>England,</hi> went to Pope <hi>
+                     <g ref="char:V">Ʋ</g>rban</hi> the ſecond, who at that time was Violently Proſecuting againſt the Emperour <hi>Henry</hi> IV, the
+<pb n="17" facs="tcp:109501:9"/> Quarrel of Inveſtitute, begun by his Predeceſſours <hi>Gregory</hi> VII.</p>
+               <p>This <hi>
+                     <g ref="char:V">Ʋ</g>rban</hi> liking the Prudence and Dexterity of <hi>Anſelm,</hi> gave ear to his Counſel, and gave him the Archbiſhops Pall, thereby voiding the Inveſtiture which he had received from King <hi>William,</hi> and obli<g ref="char:EOLhyphen"/>ging <note place="margin">Du Moulin contr. Card du Perron. l. 1. 7. cap. 11.</note> him there-after to depend upon him. This <hi>Anſelm</hi> did, ſo beha<g ref="char:EOLhyphen"/>ving himſelf ever after, as holding his Arch-biſhoprick by the Popes Ordination, not by the King's Conceſſion.</p>
+               <p>The King being herewith incenſed, Prohibited <hi>Anſelm</hi> to enter in<g ref="char:EOLhyphen"/>to his Kingdom, confiſcated the Lands and Eſtate of the Archbiſho<g ref="char:EOLhyphen"/>prick, and by an expreſs Edict declared, That the Biſhops held their Places and Eſtates meerly from him, and were not ſubject unto the Pope for the ſame: And that he had the ſame rights in his Kingdom, as the Emperour had in the Empire. At length it was determined, that all the Abbots and Biſhops of <hi>England</hi> ſhould be called toge<g ref="char:EOLhyphen"/>ther <note place="margin">Bp. <hi>God<g ref="char:EOLhyphen"/>wins Catal.</hi> of Bps.</note> to judge of this Controverſie. They met at <hi>Rockingham-Ca<g ref="char:EOLhyphen"/>ſtle,</hi> and the Matter being propoſed by the King, for fear or flattery (ſaith Biſhop <hi>Godwin)</hi> they all aſſented unto him, and forſook their Archbiſhop. All the Biſhops of <hi>England</hi> ſubſcribed, except only <hi>Gondulphus</hi> Biſhop of <hi>Rocheſter.</hi>
+               </p>
+               <p>By the Intervention of Friends <hi>Anſolm</hi> made his Peace; but af<g ref="char:EOLhyphen"/>ter his return from <hi>Rome,</hi> holding a ſtrict league with the Pope, he began again ſoon after to diſſwade the Clergy from receiving Inveſtitures from the King: wherefore he was conſtrained to fly the ſecond time out of the Kingdom, and his Eſtate was again ſeized upon and conficated, to which he was reſtored at his return.</p>
+               <p>He came then to Pope <hi>
+                     <g ref="char:V">Ʋ</g>rban,</hi> who received him honourably, as a Confeſſor, ſuffering for the Cauſe of Chriſt, The year af<g ref="char:EOLhyphen"/>ter <hi>
+                     <g ref="char:V">Ʋ</g>rban</hi> kept a Council at <hi>Clermont</hi> in <hi>Avergue,</hi> whereby he granted full Pardon of Sins to all that ſhould contribute to the expedition into the <hi>Holy Land,</hi> &amp;c. In the ſame Council he de<g ref="char:EOLhyphen"/>creed, that thence-forth it ſhould not be lawful for any Prelate, or Eccleſiaſtical Man, to receive the Inveſtiture, or Collation of a Benefice, or Church-dignity, from the hand of any Lay Perſon. But the Princes derided theſe Decrees, and retained the Poſſeſſion of theſe Inveſtitures.</p>
+               <p>In the year 1099 King <hi>William</hi> and Pope <hi>
+                     <g ref="char:V">Ʋ</g>rban</hi> died. <hi>Henry</hi> the Firſt ſucceded <hi>William,</hi> who ſought to be reconciled with <hi>Anſelm,</hi> and called him home again. But <hi>Anſelm</hi> being obliged by an Oath to the Pope, prevailed with the King, that a Council ſhould be gathered at <hi>London,</hi> where he declared the Order he had from the Pope, That no Lay Man ſhould have the Power to confer any Inveſtiture,
+<pb n="18" facs="tcp:109501:10"/> and began to degrade the Biſhops promoted by the Kings Nomina<g ref="char:EOLhyphen"/>tion, refuſing to conſecrate ſome Biſhops named by the King. King <hi>Henry</hi> being highly diſpleaſed, baniſhed him out of <hi>England</hi> pre<g ref="char:EOLhyphen"/>ſently, and confiſcated his Goods.</p>
+               <p>Whilſt theſe things paſſed in <hi>England,</hi> Pope <hi>Paſchal</hi> proſecuted the Quarrel of his Predeceſſors againſt the Emperor <hi>Henry</hi> IV. He cauſed the Emperors own Son to rebel againſt his Father, who ſoon after dying with Grief, was ſo forſaken, that Pope <hi>Paſchal</hi> would not ſuffer him to be buried, for his Carcaſs lay five years at <hi>Spire,</hi> rotting without any Chriſtian Burial.</p>
+               <p>The new Emperior <hi>Henry</hi> V, paſt preſently into <hi>Italy</hi> after the Death of his Father, where the Pope hoping to be recompenſed for helping him in his Conſpiracy againſt his Father, found him<g ref="char:EOLhyphen"/>ſelf deceived: for when he preſs'd him to renounce the Rights of Inveſtitures, which his Anceſtors (as <hi>Sigebert</hi> ſaith) had enjoyed a<g ref="char:EOLhyphen"/>bove three hundred years, the Emperor grew very Angry, and laying hold of this Pope <hi>Paſchal,</hi> committed him to cloſe Priſon. Neither would he releaſe him, till he had renounced his claim to the Inveſtitures and Collations of Benefices, ſaying to him in in ſcorn that which <hi>Jacob</hi> ſaid to the Angel wreſtling with him, <hi>I will not let thee go before thou haſt given me thy Bleſſing.</hi>
+               </p>
+               <p>Then <hi>Paſchal,</hi> to redeem himſelf out of Captivity, granted to <hi>Henry,</hi> that doth he and the Popes after him, ſhould leave unto the Emperors the peaceable enjoying of the Inveſtitures of Eccle<g ref="char:EOLhyphen"/>ſiaſtical Dignities, by the Ring and the Staff. Alſo that none ſhould be Conſecrated Biſhop without an Inveſtiture from the Emperor. The Pope and the Emperor reciprocally bound themſelves by Oath upon the Hoſt of the Maſs, which they received together. But becauſe that Oath was extorted, the Pope thought not himſelf obliged to keep it. So he brake that Agreement, and excommunicated <hi>Henry,</hi> and all Princes uſurping Inveſtitures.</p>
+               <p>This accident confirmed <hi>Henry</hi> the Firſt, King of <hi>England,</hi> in a reſolution to retain the Inveſtitures of his Kingdom. And that Or<g ref="char:EOLhyphen"/>der was held in <hi>England</hi> for a long time. Only the Popes, that they might not be injurious to their pretences by a long Preſcrip<g ref="char:EOLhyphen"/>tion, would ſend the Pall to ſome Prelats inveſted by the King, confirming that which they could not alter, and giving an Appro<g ref="char:EOLhyphen"/>bation which was not ſought from them.</p>
+               <p>And further; as to Elections of Biſhops, the great Troubles that were in the Reign of King <hi>John,</hi> grew upon no other occaſion, than becauſe the King refuſed <hi>Stephen Langton,</hi> whom the Pope
+<pb n="19" facs="tcp:109501:10"/> would have thruſt into the See of <hi>Canterbury,</hi> notwithſtanding that <note place="margin">
+                     <hi>Mat. Par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> fol. 299.</note> there had paſſed a former Election of another with the Kings aſ<g ref="char:EOLhyphen"/>ſent; and that the King juſtly alledged, he might not truſt <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng<g ref="char:EOLhyphen"/>ton</hi> in his Realm, becauſe he had a long time been on the part of his Enemies. The King menaced the Pope and his Creatures, ſeized the Temporalities of the Archbiſhop, baniſhed him, his Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ents and Kindred, with the Monks of <hi>Canterbury</hi> as Traitors.</p>
+               <p>By his and the Prelats Treachery confederating with him, the Kingdom was interdicted, the King excommunicated, his Subjects abſolved from their Allegiance; he and his deprived of the Crown, given to the French King: enforced to reſign his Kingdom to the Pope, become his ſworn Tributary, Vaſſal and Homager, to re<g ref="char:EOLhyphen"/>nounce the ancient Rights of his Crown, to receive <hi>Stephen</hi> and his Confederates to favour, to reſtore them to their Biſhopricks, with the Profits and Damages ſuſtained by their Exile, before the King could be abſolved: The King is forced to humble himſelf before him, and ſwear to him, before he would abſolve him. He inſtigates the Nobles againſt the King, threatens to excommuni<g ref="char:EOLhyphen"/>cate him, and revive the interdicts if he proceeded by Arms againſt them. He was very ſevere againſt the Clergy-men, who adhered faithfully to King <hi>John.</hi> He excites the Barons to take up Arms a<g ref="char:EOLhyphen"/>gainſt the King for their Liberties; exhorts the Great Charter from him, with new additional Clauſes; wreſteth a new Charter for the Election of Biſhops and Abbots from him, and of the Patronage and Royalties of the Biſhoprick of <hi>Rocheſter,</hi> as abſolutely as the King enjoyed them.</p>
+               <p>To requite which, he ſurrendered the Caſtle and Ammunition of <hi>Rocheſter</hi> to the Barons. He refuſeth to execute the Popes Excom<g ref="char:EOLhyphen"/>munication, though oft preſſed to it by the Legat and others. He is accuſed and ſuſpended in the Council at <hi>Rome,</hi> for confederating with the Barons againſt the King. A juſt retaliatiou! At length his Suſpenſion is token off, but he not to return into <hi>England</hi> till Peace made betwixt the King and his Barons.</p>
+               <p>
+                  <hi>Ralph N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l,</hi> Biſhop of <hi>Chicheſter,</hi> and Chancellour of <hi>England,</hi> being choſen Archbiſhop by the Monks of <hi>Canterbury,</hi> was approved by the King, and put in Poſſeſſion of the Temporalties by and by. The Monks of <hi>Canterbury</hi> thereupon preſſing the Pope to confirm his Election, <hi>A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>o</hi> 1231, the Pope made diligent enquiry of <hi>Simon Lang<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on</hi> (Brother to <hi>Stephen</hi> elected, but rejected by King <hi>John,</hi> and the Pope too at his requeſt, to be Archbiſhop of <hi>York)</hi> con<g ref="char:EOLhyphen"/>cerning <hi>Ralphs</hi> Perſon and Diſpoſition, <hi>Simon</hi> told the Pope, that
+<pb n="20" facs="tcp:109501:11"/> he was an hot Fellow, Stout, Subtle, an old Courtier, and very gracious with the King, and therefore that he would, make vari<g ref="char:EOLhyphen"/>ance betwixt him and the King, and cauſe him to deny the pay<g ref="char:EOLhyphen"/>ment of that Tribute granted unto him by King <hi>John.</hi> This was enough; ſo without any more ado he diſſolved the Election, ne<g ref="char:EOLhyphen"/>ver alledging any matter of Exception againſt him, but willed the Monks to choſe another.</p>
+               <p>Then the Monks choſe one <hi>John</hi> their Sub-prior. He being called to <hi>Rome,</hi> and firſt charged with inſufficiency, but ſufficiently cleared thereof by the teſtimony of certain Cardinals, to whoſe Examination he was referred; he was yet in the end compelled to give over his right to that <hi>See.</hi> And after ſome other, ſeveral E<g ref="char:EOLhyphen"/>lections of Archbiſhops to that <hi>See,</hi> made with the Kings Allow<g ref="char:EOLhyphen"/>ance, <note place="margin">
+                     <hi>Mat. Paris</hi> fol. 502, &amp; 515.</note> they were all one after another declared void by the Pope.</p>
+               <p>In the Reign of King <hi>Edward</hi> the Second, <hi>Anno</hi> 1313, after the Death of <hi>Robert Winchelſey,</hi> Archbiſhop of <hi>Canterbury,</hi> the Monks of <hi>Canterbury</hi> elected for his Succeſſour, one <hi>Thomas Cobham,</hi> Dean of <hi>Salisbury</hi> and Prebend of <hi>York,</hi> a Man of ſuch Vertue and Learning, that he was commonly called by the Name of <hi>the Good Clerk;</hi> but the Pope beſtowed that place upon <hi>Walter-Reynolds.</hi>
+               </p>
+            </div>
+            <div n="14" type="section">
+               <head>SECT. 14.</head>
+               <p>14. In other Promotions and Eccleſiaſtical Livings, the Popes u<g ref="char:EOLhyphen"/>ſurped <note place="margin">Patronages diſturbed, and Bene<g ref="char:EOLhyphen"/>fices be<g ref="char:EOLhyphen"/>ſtowed up<g ref="char:EOLhyphen"/>on Aliens.</note> a larger liberty of beſtowing them at their will upon ſuch as they made choice of, or upon themſelves, without regard of any Mans right to preſent, or whether the Perſons upon whom thoſe Livings were beſtowed, were the Natural Subjects of the Realm or not.</p>
+               <p>Whereupon enſued many Miſchiefs, one was, that a great part of the Wealth of this Realm, was beſtowed and ſpent in Forreign Parts. Another, that many Aliens flocking into the Realm, to occupy theſe Promotions; their preſence here was dangerous to the State, and the King unfurniſhed of fit Perſons being his Liege-Subjects, to imploy in neceſſary and ſecret Services of this Realm. Thirdly, That the Natural Subject was diſcouraged, and ſought not to make himſelf fit for any place of Service, by diligence in Study, ſeeing that the Rewards of Learning were carried away by Strangers. Of theſe are many Examples in our Hiſtories, and the wrong complained of from time to time.</p>
+               <p>In the Reign of King <hi>Henry</hi> the Third, Pope <hi>Gregory</hi> (before his Death) to carry on his Wars and Deſigns againſt the Emperor <hi>Frederick,</hi> and throw him out of the Empire, <hi>Anno</hi> 1240, in<g ref="char:EOLhyphen"/>tended by way of Proviſion, to confer all the Benefices in <hi>England,</hi>
+                  <pb n="21" facs="tcp:109501:11"/> (eſpecially of the Clergy and Religious Perſons) on the Sons of <hi>Romane,</hi> and other Forreigners; ſending his Bulls to three Biſhops, <hi>viz.</hi> to <hi>Edmond</hi> Archbiſhop of <hi>York,</hi> the Biſhops of <hi>Lincoln</hi> and <hi>Sa<g ref="char:EOLhyphen"/>rum,</hi> to confer no leſs than 300 of the next Benefices, that fell void within their Dioceſſes on theſe Aliens. A dangerous Uſurpa<g ref="char:EOLhyphen"/>tion on the Kings Prerogative, the Churches Priviledges, and the Patrons Rights! The next year the King iſſued Writs to the Arch<g ref="char:EOLhyphen"/>biſhops and Biſhops of ſundry Dioceſſes (by way of Oppoſition.) to inquire how many Aliens were promoted to Benefices or Pre<g ref="char:EOLhyphen"/>bendaries, with their Values and Names. In that injurious courſe of conferring Benefices upon <hi>Italians,</hi> the Archbiſhop of <hi>York</hi> with<g ref="char:EOLhyphen"/>ſtood the Pope, and was conſtrained to leave the Realm.</p>
+               <p>Pope <hi>Gregory</hi> fore-mentioned, in the ſame Kings Reign, wrote to the Abbot of <hi>Bury,</hi> to beſtow upon him a Benefice of the yearly <note place="margin">
+                     <hi>Mat. Paris</hi> fol. 735.</note> value of One hundred Marks; but ſo, as they [the Abbot and his Convent] ſhould farm the Benefice at his hands, and pay him yearly 200 marks rent.</p>
+               <p>The ſame Author writeth of another Benefice, and of the Trea<g ref="char:EOLhyphen"/>ſureſhip <note place="margin">
+                     <hi>Ibid</hi> fol. 815.</note> of <hi>Sarum,</hi> beſtowed upon <hi>Innocent</hi> his little Nephew, by one <hi>Martin,</hi> at that time the Popes Legat in this Realm. This Man was ſent into <hi>England</hi> by Pope <hi>Innocent</hi> IV. to extort Moneys; he was armed with Bulls to excommunicate, to ſuſpend, and by manifold ways to puniſh all, as well Biſhops, Abbots, as others, who oppoſed his Rapines and Extortions, Proviſions of Benefices, Rents to the uſe of the Popes Clerks and Kinſmen. He extorted Gifts, Garments, Palfreys from them, ſuſpending thoſe who re<g ref="char:EOLhyphen"/>fuſed, though upon reaſonable Excuſes, till ſatisfaction. He twice ſummoned the Engliſh Biſhops and Clergy for a Contribution to the Pope, and their Mother the Church of <hi>Rome,</hi> againſt the Empe<g ref="char:EOLhyphen"/>ror. The King ſent a Prohibition to them not to give him any aid, under pain of forfeiting their Baronies. He ſuſpended all to preſent to Benefices, of ten Marks value or upward, till his and the Popes Covetouſneſs was ſatisfied. The King ſent memorable Prohibitions to him againſt his intollerable Proviſions and Rapines, who perſe<g ref="char:EOLhyphen"/>vereth therein with a ſtony heart, notwithſtanding. The Cinque<g ref="char:EOLhyphen"/>ports were guarded to interrupt the Popes Bulls and Proviſions ſent unto him; His Meſſenger was impriſoned in <hi>Dover-caſtle,</hi> but ic<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſed upon his Complaint to the King. The King by advice of his Nobles, ſent Prohibitions to all the Biſhops in <hi>England,</hi> and Chief <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſtice in <hi>Ireland,</hi> not to ſuffer him or any other Nuncio, to collect <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny Moneys for the Pope, or confer any Benefices without his Pri<g ref="char:EOLhyphen"/>vity
+<pb n="22" facs="tcp:109501:12"/> or Conſent. The Nobles ſent a Meſſage to him in behalf of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> whole Kingdom, to depart the Realm within three days, elſe they would new him and all his in pieces. And when he demanded the Kings Protection againſt the fury of the Nobles, the King wiſhed <note place="margin">
+                     <hi>Mat. Paris</hi> p. 640.</note> the Devil to take him, whereupon he departed the Realm in a ter<g ref="char:EOLhyphen"/>rible Pannick fear.</p>
+               <p>The Abbot of <hi>Abingdon</hi> refuſing to beſtow upon a Roman the Be<g ref="char:EOLhyphen"/>nefice of St. <hi>Helens</hi> in <hi>Abingdon,</hi> which was eſteemed at the value of an hundred Marks, and belonged to the Monaſtery of <hi>Abingdon,</hi> becauſe the King had demanded it for his Brother, was cited to ap<g ref="char:EOLhyphen"/>pear <note place="margin">
+                     <hi>Idem</hi> fol. 1002.</note> perſonally at <hi>Rome,</hi> and could not obtain his Releaſe, until he had aſſured to the Pope a yearly Annuity of Fifty Marks to be paid out of his Monaſtery.</p>
+               <p>Pope <hi>John</hi> XXII beſtowed the Biſhop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ick of <hi>Wincheſter</hi> upon his Chaplain <hi>Rigandus,</hi> in the time of King <hi>Edward</hi> the Second, having before made reſervation thereof, and giving ſpecial charge, that <note place="margin">
+                     <hi>Tho. Wal<g ref="char:EOLhyphen"/>ſingham</hi> fol. 90.</note> no Election ſhould take place, though approved by the King.</p>
+               <p>We find in the Canon Law, that in the time of King <hi>Richard</hi> the Firſt (though from the Records of the <hi>Tower,</hi> we underſtand in the Reign of King <hi>John)</hi> that Pope <hi>Innocent</hi> contriving how to uſher in his Proviſions into <hi>England,</hi> by degrees without any obſervation, imployed the Archbiſhop of <hi>Raguſa</hi> (whom he diſcharged from that Church, becauſe he could not live quietly there) to move King <hi>John</hi> to beſtow a Biſhoprick and other Benefices, upon him in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> to relieve his Neceſſities, and ſupport his Dignity; where<g ref="char:EOLhyphen"/>upon the King out of his Royal Bounty, beſtowed the Biſhoprick of <hi>Carlile,</hi> the Archbiſhop of <hi>York,</hi> and the Church of <hi>Melbourn,</hi> upon him.</p>
+               <p>Of theſe Wrongs the People of this Land made often Complaints but could find no Redreſs. The Uſurpations of the Popes Lega<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Agents, by Exactions, Proviſions, Diſpoſing Churches to A<g ref="char:EOLhyphen"/>liens, and other Innovations, became ſo intollerably Oppreſſive <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all ſorts of People in <hi>England,</hi> that by ſeveral Letters of Com<g ref="char:EOLhyphen"/>planit diſperled againſt them, in the year 1231, 1232, there wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtirred up a general Commotion and Oppoſition againſt the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> throughout <hi>England:</hi> for finding that moſt of the Eccleſiaſtical Liv<g ref="char:EOLhyphen"/>ings of this Realm to be in the hands of Strangers, they were <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> offended, that they ſet fire on their Barns in all parts of the Realm The Pope on the other ſide ſtormeth with the King, and command<g ref="char:EOLhyphen"/>eth the Biſhops of the Realm to excommunicate the Authors of the injury, and withal to ſend them perſonally to <hi>Rome,</hi> to recei<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:109501:12"/> their Abſolution at his hand. <hi>Speed</hi> in his <hi>Hiſtory</hi> relateth, that it <note place="margin">
+                     <hi>Speeds Chronic.</hi> in the Reign of King <hi>Henry</hi> III.</note> was alledged by theſe Reformers, that they had under-hand the Kings Letters Patents, the Lord Chief Juſtices Aſſent, the Coun<g ref="char:EOLhyphen"/>tenance of the Biſhop of <hi>London,</hi> and the Sheriffs aid in divers Shires, whereby the Armed Troops took heart every where violently to ſeize on the <hi>Romans</hi> Corn and their other Wealth; which Boo<g ref="char:EOLhyphen"/>ties they imployed <hi>to good purpoſes, and for relief of the poor;</hi> the <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> 
+                  <note place="margin">Roger de Wend. M. S.</note> the mean while hiding their Heads for fear of loſing them.</p>
+               <p>In the time of King <hi>Edward</hi> the Third, Pope <hi>Clement</hi> granted to two Cardinals at one time, Proviſions of ſo many Spiritual Livings, as would amount to the yearly value of Two thouſand Marks. Here<g ref="char:EOLhyphen"/>of the King complained to the Pope, alledging that the Rights of <note place="margin">
+                     <hi>Tho. Wal<g ref="char:EOLhyphen"/>ſingham</hi> Hiſt. in <hi>Edw.</hi> III.</note> Patronages were diſturbed, the Treaſure of his Realm ſpent upon Aliens in Foreign parts; and that the Students his Subjects were thereby diſcouraged. Which Reaſons are delivered in a Statute by him made, for reſtraint of Proviſions from <hi>Rom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+            </div>
+            <div n="15" type="section">
+               <head>SECT. 15.</head>
+               <p>15. The Pope claimeth to have one proper Authority, which he <note place="margin">Plenitudo Poteſtatis in Benefici<g ref="char:EOLhyphen"/>alibus.</note> calleth, <hi>Plenitudo Poteſtatis in Beneficialibus;</hi> and is an infinite and unbridled Licence to do in Matters of Church-livings what himſelf liſteth: By force whereof he taketh from any Prelate, or Beneficed<g ref="char:EOLhyphen"/>man, his Biſhoprick or Benefice, at his pleaſure, without yielding any Cauſe or Reaſon thereof.</p>
+               <p>He hath uſed to beſtow Biſhopricks of this Realm at his pleaſure; and when any of the Biſhops died, then the Pope claimed a Privi<g ref="char:EOLhyphen"/>ledge to have the Gift of them, as <hi>Decedentes in Caria Romana,</hi> and ſo kept them many years as <hi>Decedentes in Curia;</hi> for they never came into <hi>England</hi> to die here, as <hi>Salisbury</hi> and <hi>Worceſter,</hi> which were claimed by that Title in Queen <hi>Maries</hi> time.</p>
+               <p>Again, the Pope might diſſolve Eccleſiaſtical Dignities and Bene<g ref="char:EOLhyphen"/>fices at will, and turn them into what ſhape it beſt liked him.</p>
+               <p>Moreover, he might unite, appropriate, divide ſuch Livings, and do many ſtrange things elſe about them, no cauſe appearing to any man, but his own will.</p>
+               <p>The Popes Legates alſo procured of the Kings of <hi>England,</hi> Stipends and Proviſions of good value, out of Eccleſiaſtical Benefices, and other Dignities. <hi>Ruſtand</hi> the Popes Legate, being in Favour with King <hi>Henry</hi> the Third, procured from him (beſides the Livings he obtained by the Popes Proviſions) a Grant of Proviſions out of the Eccleſiaſtical Benefices, Dignities, and Prebendaries, which ſhould firſt happen in his own Gift, amounting to 300 Marks by the year,
+<pb n="24" facs="tcp:109501:13"/> to be preferred before all other a formerly granted by him, one only excepted.</p>
+            </div>
+            <div n="16" type="section">
+               <head>SECT. 16.</head>
+               <p>16. Soulders have been Muſtered and ſent to Foreign Wars out <note place="margin">Souldiers muſtered and ſent out of the Realm.</note> of the Realm upon the Popes Commandment; which Caſe hapned in the time of King <hi>Richard</hi> the Second, the Pope gathering with<g ref="char:EOLhyphen"/>in this Realm a Band of Souldiers for the Wars of the <hi>Holy, La<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d,</hi> and appointing them for their Captain the Biſhop of <hi>Nerwich:</hi> The Realm generally miſliked that their Souldiers ſhould be commit<g ref="char:EOLhyphen"/>ted to the Guidance of an Eccleſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſtical Perſon, unacquainted with the Wars and therefore reſiſted for a while; but at length ſudden<g ref="char:EOLhyphen"/>ly yielded upon a ſuperſtitious Conceit taken in their Heads.</p>
+               <p>The <hi>Cro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſado's</hi> for the Relief of the <hi>Holy Land</hi> was a Papal Chea<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for Popes and others to pick ſimple Chriſtians Purſes for Popes De<g ref="char:EOLhyphen"/>ſigns, to maintain: Wars againſt Chriſtian Emperors and Princes<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the <hi>Greek Church</hi> and the <hi>Albigenſes</hi> deteſting and oppoſing Papal Uſurpations and Corruptions, to inthral, depoſe, and murder them. So great was Pope <hi>Innocent's</hi> Animoſity againſt the Emperor <hi>Frede<g ref="char:EOLhyphen"/>rick,</hi> that when Forces of the <hi>Cro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſado</hi> came out of <hi>France</hi> or <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> or other parts; to ſail into <hi>Syr.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to defend <hi>Jeruſalem,</hi> and the <hi>Holy Sepulchre</hi> againſt the <hi>Sarac <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> he ſtopt them, and gave them the ſame Graces and Indul, enc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, as if they had performed the Journey into the <hi>Holy Land,</hi> upon Condition that they ſhould turn their Armes againſt <hi>Frederick</hi> whoſe Power lay upon him, be<g ref="char:EOLhyphen"/>cauſe he ſtiffly maintained the Rights of the Empire.</p>
+               <p>The Pope proceeded ſo far, as to give the Empire to <hi>Robert</hi> Bro<g ref="char:EOLhyphen"/>ther of <hi>Lewis</hi> IX. King of <hi>France.</hi> upon condition that he ſhould conquer it. But <hi>Robert</hi> ſent his Preſent back to the Pope, both be<g ref="char:EOLhyphen"/>cauſe he ſent him no Money to furniſh him for that Conqueſt; and becauſe he found it very ſtrange, that the Pope would give that which was none of his. Alſo becauſe he ſhewed himſelf an Enemy to a great and vertuous <hi>Prince,</hi> who had done and ſuffered ſo much, bravely fighting for the Cauſe of the Chriſtians againſt the Infidels. Then he added, <hi>That the Popes are laviſh of the Blood of others, and that their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd is to tread all the Princes of the world under their feet, and to put on the Horns of Pride.</hi>
+               </p>
+               <p>Mean-while perſecution grew ſore againſt thoſe whom they cal<g ref="char:EOLhyphen"/>led <hi>Vaudo<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> and <hi>Albigenſes;</hi> againſt whom the <hi>Pope</hi> cauſed the <hi>Crai<g ref="char:EOLhyphen"/>ſado</hi> ſo be preached, and an infinite number of them to be maſ<g ref="char:EOLhyphen"/>ſacred.</p>
+               <p>
+                  <hi>Pope Gregory</hi> IX. (who compiled the <hi>Decretals)</hi> needing Mone<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="25" facs="tcp:109501:13"/> for his War againſt the Emperor <hi>Frederick,</hi> ſent a Legar into <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> named <hi>Stophen,</hi> who exacted a tenth part of all their move<g ref="char:EOLhyphen"/>able Goods (that is) of all their Flocks, Rents, Fruits, Wares, Offerings, and Gifts to the Church. And the ſaid Legat had power to Excomunicate all that ſhould refuſe to pay, and to put the Churches in Interdict. He injoyned the Prelates upon pain of Ex<g ref="char:EOLhyphen"/>communication, to make that Collection ſpeedily, and without delay. All that ſhould croſs that Holy Work, he Excommunicated <hi>ipſo facto.</hi> He would be paid in new Coin, and of good Weight. He took the Tithe, even of the Corn in the firſt Blade, that is, of the Crop of the year after.</p>
+               <p>In theſe Exactions he was ſo urgent and griping, that the Pariſhes were forced to engage the Chalices and Church-Plate to ſatisfie his Covetouſneſs. And he had certain Uſurers with him, who lent Money upon double uſe, to thoſe who had no ready Money. This cauſed a great Clamour and Lamentation over all the Countrey, but without effect. The Money was imployed by the Pope in in<g ref="char:EOLhyphen"/>vading many Towns belonging to the Emperor in <hi>Italy.</hi> And the Emperor could not defend them, becauſe he was ingaged againſt the <hi>Saracens</hi> in the <hi>Levant,</hi> where he took <hi>Jeruſalem,</hi> and put the Affairs of the Chriſtians in a flouriſhing Eſtate. And it is probable, that he had utterly deſtroyed the <hi>Saracens,</hi> if the Injuries which he received from the Pope had not re-called him. For the Emperor making a League for ten years with the <hi>Saracens.</hi> and returning unexpectedly from the <hi>Holy Land,</hi> interrupted the Popes proceed<g ref="char:EOLhyphen"/>ings, <note place="margin">Mat. Paris p. 351, 352. Matth Weſtm. p. 128, 129.</note> and ſoon recovered all his Caſtles; ſo that the Pope was forced by meditation of Friends, to ſtoop to the Emperor, and make his peace with him beyond all Expectation.</p>
+               <p>Scarce was the Collection ended made by <hi>Stephen</hi> the Legate, when Pope <hi>Gregory</hi> inventing Extortions grounded upon fair Rea<g ref="char:EOLhyphen"/>ſons, ſent <hi>Nuncios</hi> with power of Legats, who by Sermons, Ex<g ref="char:EOLhyphen"/>hortations, and Excommunications, brought an infinite number of Engliſh Men to Mendicity, and turned them out of their Houſes. This was done under a pretence of contributing to the expence of the Holy War, of which himſelf hindered the ſucceſs; and yet he pro<g ref="char:EOLhyphen"/>miſed to them that ſhould contribute Money for it, the remiſſion of all their ſins, and to them that ſhould go in Perſon, an Augmentation of Glory; yet the Pope never gave any part of the Money raiſed for that expedition, to any Prince that paid Armies, and fought for that Quarrel. All was thrown into the Popes Coffers, as into a Gulph, and by him imployed to make War againſt <hi>Frederick,</hi>
+                  <pb n="26" facs="tcp:109501:14"/> for he preſently broke the Covenant ſworn unto him.</p>
+               <p>Moreover, Wars made by the Pope, were oftentimes ſupported <note place="margin">The Trea<g ref="char:EOLhyphen"/>ſure of the Realm ſpent in the Popes Wars. <hi>Mat. Paris</hi> fol. 703, 704.</note> at the Charges of Forreign Countreys, the Pope bearing them in hand, that they were <hi>the Wars of the Church,</hi> and therefore did in common concern every of their States and Intereſts; under which colour large Contributions have been drawn out of this Realm.</p>
+               <p>In the year 1240, the Pope forced all Aliens within this Realm, to contribute to the Wars againſt <hi>Frederick,</hi> the fifth part of the Re<g ref="char:EOLhyphen"/>venues of their Spiritual Livings; and in the ſame year took ano<g ref="char:EOLhyphen"/>ther fifth part of all Biſhopricks to the ſame uſe.</p>
+               <p>The Pope ceaſed not thus, but immediately commanded new Collections to be made, ſtill pretending his Wars with the Emperor; a<g ref="char:EOLhyphen"/>gainſt which Commandment the Clergy made divers Exceptions, which are at large ſet down by <hi>Matth. Paris,</hi> ſol. 714. and 7<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5.</p>
+               <p>In the year 1255, <hi>Alexander</hi> IV. ſent a Legate into the Realm, <note place="margin">Idem 1219.</note> who exacted the tenth part of all the Goods and Chatels in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> pretending the Church-wars againſt <hi>Manſred,</hi> who had invaded the Kingdom of <hi>Naples,</hi> which the Pope claimed to appertain to his <hi>See.</hi>
+               </p>
+            </div>
+            <div n="17" type="section">
+               <head>SECT. 17.</head>
+               <p>Sometimes again great ſums were levyed, no other cauſe be<g ref="char:EOLhyphen"/>ing known but the Popes pleaſure.</p>
+               <p>In the year 1245, the Pope demanded of all Clerks that were <note place="margin">Levies of Moneys to the Popes uſe without cauſe.</note> Non-reſident, half their Revenues, and of thoſe that were reſident a third part.</p>
+               <p>
+                  <hi>Matthew Paris</hi> writeth, that in the year 1257, the Popes Pro<g ref="char:EOLhyphen"/>ctors ſent with his Bulls into this Realm, extorted of Clerks and Religious Perſons, great ſum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Money; and if any ſound them<g ref="char:EOLhyphen"/>ſelves Grieved, and offered to appeal they were forth with by one Commiſſion or other Excommunicated.</p>
+               <p>In the year 1248, he exacted of the Monaſtery of St. <hi>Edmonds<g ref="char:EOLhyphen"/>bury</hi> 
+                  <note place="margin">
+                     <hi>Mat. Paris</hi> fol. 1002.</note> (the place of the Abbot being void) 1000 Marks, and would not confirm the Election of the new Abbot until the Monks had promiſed to pay 800 Marks.</p>
+               <p>In the Reign of King <hi>Edward</hi> the Second, Pope <hi>John</hi> XXII, re<g ref="char:EOLhyphen"/>ſerved to his <hi>See</hi> the Firſt-fruits of all vacant Benefices for the ſpace of three years.</p>
+               <p>At that time alſo certain Uſurers ſet up in <hi>England,</hi> called <hi>Caurſins,</hi> who by Uſuries and ſtrange Arts deviſed in <hi>Italy,</hi> did eat up the poor People and the Clergy. The King himſelf was much indebted to them. The Biſhop of <hi>London</hi> would have repreſſed them, but
+<pb n="27" facs="tcp:109501:14"/> becauſe they were maintained by the Pope, he was not able to ef<g ref="char:EOLhyphen"/>fect it.</p>
+               <p>The <hi>Franciſcans</hi> and <hi>Dominicans</hi> preached up the Popes Power, and drew all the Confeſſions to themſelves, and every day obtained Priviledges to the prejudice of the Parochial Prieſts, who became almoſt uſeleſs. The State of <hi>England</hi> was deplorable, for hungry <hi>Italians</hi> of the baſer ſort, with Bulls and Warrants from the Pope, came daily to fleece the People, and to raiſe ſuch ſums of Money, as they would demand upon the Clergy. If any denied what they demanded, he was preſently Excommunicated. And they that held the great Benefices were Strangers, who were but the Popes Farmers.</p>
+               <p>This cauſed <hi>Matthex Paris,</hi> that lived then, and beheld theſe things, to lament, <hi>That the Daughter of</hi> Sion <hi>was become like a ſhame<g ref="char:EOLhyphen"/>leſs Harlot that could not b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſh, by the juſt Judgment</hi> (ſaith he) <hi>of him that made an Hypocrite to reign, and a Tyrant to domineer.</hi>
+               </p>
+               <p>Sometimes the Pope made his advantage by Grants made to o<g ref="char:EOLhyphen"/>ther Biſhops to ſpoil the Realm; as to the Biſhop of <hi>Rocheſter,</hi> whoſe Name was <hi>Laurentim de Sancto Martino,</hi> a Chaplain and Counſel<g ref="char:EOLhyphen"/>lour of King <hi>Henry</hi> the Third. This Man got a Diſpenſation from the Pope to hold all his former Livings <hi>in Commendam</hi> with this Biſhoprick. And yet alledging that his Biſhoprick was the pooreſt of <hi>England,</hi> and therefore his Living yet unable to maintain the Port of a Biſhop, he never ceaſed till he had extorted from the Clergy of his Dioceſs a Grant of a fifth part of all their Spiritual Livings for five years, and appropriated unto his <hi>See</hi> for ever the Parſonage of <hi>Friends-bury.</hi>
+               </p>
+               <p>The Pope at the ſame time granted a Bull to the Archbiſhop of <note place="margin">
+                     <hi>Mat. Paris</hi> fol. 1000.</note> 
+                  <hi>Canterbury</hi> to collect the Fruits of all vacant Benefices within his Pro<g ref="char:EOLhyphen"/>vince for one year.</p>
+            </div>
+            <div n="18" type="section">
+               <head>SECT. 18.</head>
+               <p>The way that yielded to the Pope his greateſt Harveſt, was by <note place="margin">The Popes Legats.</note> Legats ſent into this Realm; for they coming hither under a plau<g ref="char:EOLhyphen"/>ſible title of care to reform things that were amiſs within the Realm; and the preſence of a Legate having an Authority little in<g ref="char:EOLhyphen"/>ferior to the Pope himſelf, being terrible to the Subject, they had opportinity not not only to gather to their Maſters whatſoever they liked to demand, but alſo provailed intollerably for themſelves; and ſome of them with ſuch inſolence, as it is ſtrange that any Prince could ever ſuffer them in his Realm.</p>
+               <p>I ſhall here ſpeak ſomething of the Original of theſe Legats, and ſhew how by degrees the <hi>Legat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> à latere</hi> were brought in Autho<g ref="char:EOLhyphen"/>rity
+<pb n="28" facs="tcp:109501:15"/> amongſt the Nations, and how they did inlarge the Popes <hi>Phylacteries.</hi>
+               </p>
+               <p>At firſt becauſe <hi>Rome</hi> was the chief City of the Empire, from thence (as from a Seminary) were preachers ſent to ſundry Na<g ref="char:EOLhyphen"/>tions, to preach and plant the Goſpel, or to confute Hereſies, afterwards to provide vacant Benefices, and to ſupply the abſence of the Roman Biſhop in <hi>Synods;</hi> in all which they did no other thing but as other Biſhops might have done, and alſo did.</p>
+               <p>But when the Biſhops of <hi>Rome</hi> were made Patriarchs, and became ambitious, theſe Legats did the ſame Offices at ſome times: but therewith they began craftily to injoyn unto Archbiſhops and Me<g ref="char:EOLhyphen"/>tropolitans., to execute ſome things which they were commanded by the Word of God to do; and they would give them power within their own Dioceſſes, as if Biſhops had been Vicars of the Roman Parriarchs, or his Legat.</p>
+               <p>Theſe Primats did gladly imbrace the ſhow of Honour, that for <note place="margin">
+                     <hi>Petrie's</hi> Church Hiſtory p. 272.</note> reverence of the Roman Church they might be the more reſpected in their own Juriſdiction, and ſometimes the more eaſily advance themſelves above their Competitors.</p>
+               <p>Sometimes the Popes ſent Legats into other Dioceſſes, with ſuch modeſty that they had Authority to attempt nothing without con<g ref="char:EOLhyphen"/>currence of the Biſhops, or Synod of that Countrey.</p>
+               <p>Albeit theſe Legations were partly good and juſt, and at the worſt were tollerable, yet they were not <hi>poteſtativae,</hi> or imperious, but <hi>charitativ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> or exhortatory: nevertheleſs the Popes brought the Churches and Biſhops into ſubjection by ſuch means; for after<g ref="char:EOLhyphen"/>wards they were ſent only for ambitious Uſurpation, Covetouſneſs, and Worldly Affairs.</p>
+               <p>The ordinary Legats at <hi>Piſa, Romandiola, Bononia, Ferrara, A<g ref="char:EOLhyphen"/>vignon</hi> (and if there be any other ſuch) are Provincial Deputies, <hi>Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tores,</hi> or Vice-Roys.</p>
+               <p>The Nuncio's at the Court of the Emperor, or of any King, Prince, or State, are Ambaſſadors, or Spies for Secular Affairs: The Affairs of any Church that are gainful, if they be of leſs ac<g ref="char:EOLhyphen"/>count, are reſerved unto the Judgment of the <hi>Nuncio;</hi> yet not definitively, but to be determined at <hi>Rome.</hi> And things of greater importance are wholly reſerved for the Court of <hi>Rome.</hi>
+               </p>
+               <p>The Ancient Biſhops of <hi>Rome</hi> did ſeverely in joyn their Legats to acknowledge duly the infer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Biſhops within their own Juriſdicti<g ref="char:EOLhyphen"/>on; but now they paſsby the Metropolitans, and draw all Actions unto themſelves and the Court of <hi>Rome.</hi> Likewiſe their Ambition
+<pb n="29" facs="tcp:109501:15"/> and Avarice have ſo provoked ſome Nations, that they will ſcarce admit any Legat, as <hi>Sicily</hi> and <hi>France</hi> have intr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nched their Office. Theſe particultrs are more largely written by <hi>Antoniu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> de Dominis,</hi> Archbiſhop of <hi>Spalato de Republ. Eccleſiaſt. lib.</hi> 4. cap. 12.</p>
+               <p>Of theſe ſome had the Titles and Enſigns, others the power of Legats (or more) without the Title or Badges. Some were ſent ſucceſſively into <hi>England, Wales, Ireland, France,</hi> and elſewhere, to publiſh Popes Excommunications, Interdicts, Bulls, Croiſados, Diſms, Suſpenſions, Citations, Mandats, <hi>&amp;c.</hi> to and againſt Em<g ref="char:EOLhyphen"/>perors, Kings, Princes, Biſhops, Abbots, Priors, and all ſorts of Perſons; to exact, collect Moneys, Pillage Sacred Churches, Monaſteries, Manſions founded by our devout ſimple Anceſtors, for relief of the poor, of Strangers, and Suſtentation of Religious Perſons, <hi>&amp;c.</hi>
+               </p>
+               <p>It was an Ancient Priviledge of the Kings of <hi>England</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> that no Legat <hi>à latere,</hi> ſhould come into any of their Domi<g ref="char:EOLhyphen"/>nions by the Popes Miſſion, unleſs at the Kings ſpecial inſtant re<g ref="char:EOLhyphen"/>queſt to the Pope, who eluded this priviledge by ſending Nuncio's, Chaplains, Clerks, Friers, <hi>Minors,</hi> or <hi>Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dicants,</hi> ſometimes into their Realm, with the full power, not Titles or Enſigns of Legats.</p>
+               <p>Some Iriſh Biſhops without the Kings Privity, endeavouring to procure a Legat to be ſent into <hi>Ireland,</hi> the King upon notice thereof by his Chief Juſtice and others, writes to the Pope to ſend no Legat thither againſt his will.</p>
+               <p>Pope <hi>Gregory</hi> the Ninth, his Legat was impriſoned for ſtirring up Sedition in <hi>Lombardy</hi> againſt the Emperor. Three Legats, with ſundry Archbiſhops and Biſhops, were taken by the Emperors Gal<g ref="char:EOLhyphen"/>leys, going to a Council upon the Summons of Pope <hi>Gregory</hi> IX.</p>
+               <p>
+                  <hi>Gualo,</hi> a Presbiter Cardinal of St. <hi>Martin,</hi> crowned King <hi>Henry</hi> III, cauſing him to do homage to the Church of <hi>Rome,</hi> and Pope <hi>Innocent</hi> for <hi>England</hi> and <hi>Ireland,</hi> and to ſwear faithfully to pay the Annual Rent for them, which his Father King <hi>John</hi> had granted ſo long as he injoyed thoſe Realms. He deprived <hi>Simon Langton,</hi> Archdeacon of <hi>Canterbury</hi> and <hi>Gervaſe de Habruge</hi> (who obſtinately adhered to <hi>Lewis</hi> and the Barons, and celebrated Divine Service to them and the <hi>Londoners</hi> after their Excommunication) of their Be<g ref="char:EOLhyphen"/>nefices, for which they were compelled to go to <hi>Rome.</hi> He ſent Inquiſitors through all Provinces of <hi>England,</hi> ſuſpending and de<g ref="char:EOLhyphen"/>priving Clerks of their Benefices for very ſmall faults, and adhering to the Barons; beſtowing their Livings on his own Creatures Clerks. inriched with others Spoils. He received a thouſand Marks from
+<pb n="30" facs="tcp:109501:16"/> 
+                  <hi>Hugh</hi> Biſhop of <hi>Lincoln,</hi> and vaſt ſums from other Religious Per<g ref="char:EOLhyphen"/>ſons, Canons, exhauſting their Purſes, and reaping where he did not ſow. He bare ſway in the Councils of King <hi>Henry</hi> III, who ſealed ſome Writs and Patents with his Seal before his own Seal was made, and uſurped on his Crown, during his Minority with<g ref="char:EOLhyphen"/>out Oppoſition. <hi>Bernardus de Nympha</hi> came Armed into <hi>England,</hi> with the Bulls of Pope <hi>Innocent</hi> IV, to collect Money from the <hi>Cruce ſignati,</hi> for <hi>Richard</hi> Earl of <hi>Cornwall,</hi> the Kings Brother. Di<g ref="char:EOLhyphen"/>vers Blank Bulls of the Popes were found in his Cheſt after his Death, containing manifold Machinations of the Romans to de<g ref="char:EOLhyphen"/>baſe and oppreſs <hi>England.</hi>
+               </p>
+               <p>
+                  <hi>John de Diva,</hi> an Engliſh Frier, was armed with many Papal Bulls to extort Moneys from the Engliſh for Pope <hi>Innocent</hi> IV, un<g ref="char:EOLhyphen"/>der dreadful Penalties and Fulminations. He exacts ſix thouſand Marks out of <hi>Lincoln</hi> Dioceſs. His Exaction at St. <hi>Albans</hi> was appealed againſt, who demanded 300 Marks, notwithſtanding the Appeal, to be paid within Eight days, under pain of Excommunica<g ref="char:EOLhyphen"/>tion and Interdict, which the Pope upon an Appeal cauſed them to pay. He had a Bull from the Pope to inquire of all Lands ali<g ref="char:EOLhyphen"/>enated from Churches and Monaſteries, Vexation<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by Proviſo's, all Simoniacal Contracts for Livings, to ſeize them to the Popes uſe; and Excommunicate, Interdict all Oppoſers without Appeal.</p>
+               <p>
+                  <hi>John Ruſſin</hi> was ſent with the power (though not the title) of a Legat into <hi>Ireland,</hi> to collect Moneys there. He extorted ſix thou<g ref="char:EOLhyphen"/>ſand Marks from the Clergy there, notwithſtanding the Kings Pro<g ref="char:EOLhyphen"/>hibition.</p>
+               <p>
+                  <hi>Otto</hi> I. Pope <hi>Honorius</hi> his Nuncio, was ſent to King <hi>Henry</hi> III. He demandeth two Marks by way of Procuration from all Conventual Churches of <hi>England;</hi> he demandeth two Dignities, and two Monks portions in all Cathedrals and Monaſteries.</p>
+               <p>
+                  <hi>Otho,</hi> Cardinal Deacon of St. <hi>Nicholas in Careere T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llian<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> Legat <note place="margin">
+                     <hi>Pryn</hi>'s Hiſt. of Popes U<g ref="char:EOLhyphen"/>ſurpations.</note> to Pope <hi>Gregory</hi> IX, was received into <hi>England</hi> with Proceſſions and ringing of Bells. He diſpoſed of vacant Benefices to all that came with him, whether worthy or unworthy, the King almoſt did no<g ref="char:EOLhyphen"/>thing without him, and adored his foot-ſteps. He was preſent in the Parliament at <hi>York,</hi> to mediate a peace between the Kings of <hi>England</hi> and <hi>Scotland.</hi> The Charter of Peace was ſworn to, and ratified in his Preſence. He deſireth leave of the King of <hi>Scot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> to enter as a Legat into <hi>Scotland,</hi> to regulate Eccleſiaſtical Affairs there as in <hi>England,</hi> who anſwered, <hi>That neither in his Fathers time, nor of any his Anceſtors, any Legat had Entrance into</hi> Scotland, <hi>nei<g ref="char:EOLhyphen"/>ther
+<pb n="31" facs="tcp:109501:16"/> would he permit it, whilſt he was in his righe ſenſes. But if he entered, at his own peril he muſt expect violence from his rude Subjects, from which he was unable to protect him:</hi> yet he knighted and be<g ref="char:EOLhyphen"/>ſtowed ſome Lands on his Nephew.</p>
+               <p>A great Fray was occaſioned at <hi>Oxford</hi> by his Porter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Inſolence, and he was aſſaulted by the Scholars at <hi>Oſney-Abbey,</hi> ſtiled an U<g ref="char:EOLhyphen"/>ſurer, a Simoniack, a Raviſher of Mens Rents, a Thirſter after Money, a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erverter of the King, and Subverter of the Kingdom, is forced to fly ſecretly from thence. Both the King and he pro<g ref="char:EOLhyphen"/>ceeded ſeverely againſt the Scholars for it, by Eccleſiaſtical Cen<g ref="char:EOLhyphen"/>ſures, Excommunications, Penances, Impriſonments, almoſt to the ruin of the Univerſity.</p>
+               <p>He was denied Entrance into <hi>Scotland</hi> by the King thereof the ſecond time. He gave a Writing under his Hand and Seal to the King of <hi>Scots,</hi> that his Admiſſion into <hi>Scotland</hi> ſhould not be drawn into Conſequence, who took it away with him upon his private re<g ref="char:EOLhyphen"/>ceſs. He there collected the fifteenth part of the Goods of all Pre<g ref="char:EOLhyphen"/>lats, and Beneficed Clerks, and ſent it to the Pope. The Engliſh No<g ref="char:EOLhyphen"/>bles ſend Letters of Complaint to the Pope againſt his confering of Benefices by Proviſions upon Aliens, and other Grievances. <hi>Fre<g ref="char:EOLhyphen"/>derick</hi> the Emperor was incenſed againſt King <hi>Henry</hi> III, for this Legats collecting of Moneys in <hi>England,</hi> imployed in Wars a<g ref="char:EOLhyphen"/>gainſt him, demanding his Expulſion out of <hi>England,</hi> as the Em<g ref="char:EOLhyphen"/>perors and the Kingdoms Enemy. He demandeth Procurations for himſelf from the Clergy, not exceeding the ſum of four Marks for any Procuration. The King ſent a Prohibition to him to exact the fifth, or any other part of the Benefices of his Clerks attending on his Service, which he could by no means endure. He joyneth with <hi>Peter Rubee</hi> in exacting a great Tax from the Prelats and Ab<g ref="char:EOLhyphen"/>bots to ſhed Chriſtian Blood, and to conquer the Emperor. The Biſhops and Canons except againſt his intollerable Demands. He laboured to raiſe a Schiſm and Diviſion among the Clergy, to ob<g ref="char:EOLhyphen"/>tain his Exactions. He demanded Procurations from the <hi>Ciſterci<g ref="char:EOLhyphen"/>ans,</hi> who manfully denied them, as contrary to their Priviledges, which the Pope diſpenſed with by his <hi>Non obſtante.</hi>
+               </p>
+               <p>The King upon his Departure out of <hi>England,</hi> by the Popes Summons, feaſted, placed him in his own Royal Throne, and at Dinner (to the admiration of many) Knighted his Nephew, and beſtowed an Annuity of Thirty pounds <hi>per Annum</hi> upon him, which he preſently ſold. He conferred above Three hundred rich Prebendaries and Benefices, at his own and the Popes pleaſure, on
+<pb n="32" facs="tcp:109501:17"/> their Creatures: He ſpoiled the Church of <hi>Sarum,</hi> and many other Cathedrals, leaving them deſtitute of Conſolation. He is accompanied by the King and Nobles in great ſtate to the Sea-ſide at his departure out of <hi>England</hi> He left not ſo much Money in <note place="margin">
+                     <hi>Mat. Paris</hi> fol. 735.</note> 
+                  <hi>England</hi> behind him when he left it, as he drained out of it, Church<g ref="char:EOLhyphen"/>plate and Ornaments excepted. He ſtayed three years in <hi>England;</hi> great were the rewards demanded by, and given unto Legats. Pope <hi>Innocentius</hi> ſent one <hi>Martin</hi> into <hi>England</hi> for his Legat, who was <note place="margin">Rewards given to Legats.</note> not aſhamed to demand Plate, Geldings, and other Rewards without meaſure. And if thoſe things where with he was preſented, liked him not, he would proudly ſend them back to their Owners, <note place="margin">
+                     <hi>Mat. Paris</hi> f. 870.</note> and threaten them with Excommunications, except they brought him better. And other Examples in the ſame Authors there were divers. Rich Preſents were ſent unto the Legats. The Biſhop of <hi>Win<g ref="char:EOLhyphen"/>ton</hi> preſented <hi>Otho</hi> with Fifty fat Oxen, One hundred Quarters of the beſt Wheat, and Eight Tun of the ſtrongeſt Wine for his Table. Others preſented him with handſome Palfreys, rich Veſſels, Furrs, Veſtments; and divers other Proviſions of Meat and Drink.</p>
+               <p>Again, the charge of the ordinary Entertainments of a Legat was a great matter, for all his Charges were born by the Realm. What thoſe Expences might grow unto, may be conjectured by one de<g ref="char:EOLhyphen"/>mand of Procurations made by the ſaid <hi>Otho</hi> (which yet was but a piece of his Allowance) for in the year 1240, giving notice to the Clergy that he muſt tarry in the Realm ſome time longer than at firſt was aſſigned unto him (in which ſpace he was not to ſpend of his own) commanded a ſecond Levy of Procurations to be made, <note place="margin">
+                     <hi>Mat. Paris</hi> fol. 702.</note> wherein he made ſhew of ſome favour more than was ordinary; giving to underſtand, that he meant not to receive of any Church above four Marks: and where the Churches were poor, he would be content that two Churches ſhould joyn in contributing thoſe four Marks.</p>
+               <p>What benefit the Realm received for all theſe charges upon the <note place="margin">The uſe of Legats.</note> Legats, the Monuments of two of the chief of theſe Legats, <hi>Otho</hi> and <hi>Ottobon</hi> (I mean their Legantine Conſtitutions, which were the fruits of their Reformation) do well ſhew. They contain Mat<g ref="char:EOLhyphen"/>ter of little or no moment in the World, and ſuch as every Bi<g ref="char:EOLhyphen"/>ſhop in his Dioceſs might have ordered well enough, <hi>viz.</hi> Trif<g ref="char:EOLhyphen"/>fles about Citations, Proxies, and other ſmall matters.</p>
+               <p>Moreover, their long abode and lingering in Countreys, cannot <note place="margin">Danger by the ſtay of Legats in the Realm; <hi>Nich Ma<g ref="char:EOLhyphen"/>chiavel Hiſtory of Florence.</hi>
+                  </note> but be dangerous to the States where they come; becauſe having opportunity to know the ſecrets of the Realm, they beſtow that
+<pb n="33" facs="tcp:109501:18"/> knowledge often times unhappily, being perſons imployed in more Countreys than one, and often where diſcovery of ſuch Secrets proveth perillous to thoſe Realms; where they have ſerved before. <hi>Nicholas Machiavel,</hi> that great States Man, in his Hi<g ref="char:EOLhyphen"/>ſtory of <hi>Florence,</hi> noteth of his time, that the moſt of all the Wars and Garboiles in Chriſtendom, were kindled by the Whiſperings of the Popes Legats.</p>
+            </div>
+            <div n="19" type="section">
+               <head>SECT. 19.</head>
+               <p>19. It is alſo proved by the Canon Law, that any Eccleſiaſtical <note place="margin">Original Suits at <hi>Rome.</hi>
+                  </note> Suit may be commenced Originally at <hi>Rome.</hi>
+               </p>
+               <p>This cannot be void of great charges to the Subject, and is very gainful to the See of <hi>Rome:</hi> and the Charge lieth not alone in the long Travel thither, and tedious Attendance upon that Court, but in the Cumberſomneſs of many intricate Queſtions ariſing upon Com<g ref="char:EOLhyphen"/>miſſions, ſometimes one croſſing another, and ſometimes doubtfully penned, ſometimes again controlled by colour of wrong Suggeſtion, and a great number of ways beſides, whereof the Decretals are full, and moſt of them are directed to Biſhops of this Realm, which be<g ref="char:EOLhyphen"/>tokeneth that this Plague hath touched our Engliſh People more than any other.</p>
+               <p>The Subjects were conſtrained to follow the Popes Conſiſtory for their right, and there to waſte themſelves in Suit, in ſuch wiſe, that one Caſe of <hi>England</hi> was thirty years depending in <hi>Rome, Ante litem conteſtatam,</hi> as <hi>Speculator</hi> writeth. And the caſe between the Arch<g ref="char:EOLhyphen"/>biſhop of <hi>Canterbury</hi> and the Archbiſhop of <hi>York</hi> for the Controverſie whether the Archbiſhop of <hi>York</hi> might have a Croſs born before him within the Dioceſs of <hi>Canterbury</hi> (a goodly Matter for Biſhops to contend about) did hang many years in the Court of <hi>Rome.</hi> And likewiſe the Caſe between the Biſhop of <hi>Worceſter</hi> and the Abbot of <hi>Eveſham,</hi> for the Vale of <hi>Eveſham.</hi> The Decretals are full of Engliſh Caſes, decreed even as the parties found favour in the Court of <hi>Rome.</hi> And the poor Cauſe of Matrimony of <hi>Cetwood,</hi> did hang in <hi>Rome,</hi> and was reſerved there by Act of Parliament, and never was decided. And that very point was the occaſion that King <hi>Henry</hi> VIII. did look into the Uſurpation of <hi>Rome;</hi> becauſe the Pope would needs Excommunicate the King for not anſwering in his own Caſe at <hi>Rome,</hi> as is notably diſcovered by <hi>Bellay</hi> in his <hi>Memoires,</hi> who was the Ambaſſador for the French <note place="margin">Bellay <hi>in</hi> Memoires.</note> King in <hi>England,</hi> and was ſent of purpoſe to <hi>Rome,</hi> to ſtay the Ex<g ref="char:EOLhyphen"/>communication, and could not get ſix days reſpite; and yet with<g ref="char:EOLhyphen"/>in theſe ſix days the Meſſenger came with Inſtructions to have ap<g ref="char:EOLhyphen"/>peaſed the Matter.</p>
+            </div>
+            <div n="20" type="section">
+               <pb n="34" facs="tcp:109501:19"/>
+               <head>SECT. 20.</head>
+               <p>What infinite Treaſure was there carried out of the Realm by the <note place="margin">Great ſums carried out of the Realm for Diſpenſati<g ref="char:EOLhyphen"/>ons.</note> Pope's Collectors, and by Bankers for Bulls and Diſpenſations, no man can tell. Therefore the French King hath many times made E<g ref="char:EOLhyphen"/>dicts againſt the Carrying out of Money for Bulls out of <hi>France,</hi> as of a thing that ſpoiled the Realm of their Treaſure; uſing the Term, <hi>Epuiſer les Treaſors du Royaume,</hi> as a man doth draw the water of a Well, to dry up the Water.</p>
+               <p>The Sums that were yearly made of Diſpenſations and Abſolutions in Caſes reſerved, were infinite; as alſo of Pardons and Indulgences; and other Faculties. It appeareth by the Book of Taxes made for Diſpenſations in the Reign of <hi>Henry</hi> VIII. that there were found Two hundred and ſixteen Letters of Diſpenſations given by the Pope, and that the Taxe of ſome of them were Two hundred Marks, of others an Hundred Pounds, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Thomas Walſingham</hi> writeth, That in the time of King <hi>Richard</hi> the <note place="margin">Tho. Wal<g ref="char:EOLhyphen"/>ſingham fol. 257.</note> Second, one <hi>Pileus</hi> the Pope's Legate, made ſuch a Market with Sale of Faculties, that his Officers that were about him in that Ser<g ref="char:EOLhyphen"/>vice, grew weary of taking Silver; and did not ſtick to ſay, <hi>That they had Silver enough, and therefore would not afterwards be paid for their Wares in any Coin but in Gold.</hi>
+               </p>
+               <p>
+                  <hi>Robert Grosted</hi> Biſhop of <hi>Lincoln,</hi> being ſuſpended his Biſhoprick, for oppoſing the Pope's Proviſions, and trampling them under his <note place="margin">Matth. Pa<g ref="char:EOLhyphen"/>ris fol. 1145. Anno 1252.</note> feet, cauſed his Clerks to take a view of all the Spiritual Livings of Aliens in this Realm, and to make a diligent Inquiry to what an An<g ref="char:EOLhyphen"/>nual Sum they amounted unto; who found them to exceed above Seventy thouſand Marks. And it may be eaſily collected what the Pope's Share was in thoſe Gifts.</p>
+               <p>What the ordinary Payments were, that were yearly made to the See of <hi>Rome,</hi> he that ſhall make the ſtricteſt Inquiſition, ſhall hard<g ref="char:EOLhyphen"/>ly underſtand.</p>
+            </div>
+            <div n="21" type="section">
+               <head>SECT. 21.</head>
+               <p>The Kingdom of <hi>England</hi> being daily oppreſſed with many intol<g ref="char:EOLhyphen"/>lerable Grievances, and divers new Devices to extort Moneys more than before, in the dayes of King <hi>Henry</hi> the Third, he ſummoneth a Parliament at <hi>London,</hi> by reaſon of the Complaints of the Engliſh againſt thoſe Grievances, which they could no longer tollerate without the brand of ſluggiſhneſs, and their own imminent ruin. Great was the Indignation of the Pope againſt the miſerable En<g ref="char:EOLhyphen"/>gliſh, for that they durſt complain againſt their daily injuries and oppreſſions in the Council; which he ſo multiplied, that the Engliſh
+<pb n="35" facs="tcp:109501:19"/> were more vile in his eyes and the Court of <hi>Rome,</hi> than any other even of the remoteſt Nations: Inſolently ſaying, <hi>It is expedient for us to compound with the Emperour</hi> Frederick, <hi>that we may trample the little King of</hi> England <hi>under our Feet, who now kicks with the heel a<g ref="char:EOLhyphen"/>gainſt us.</hi>
+               </p>
+               <p>Then the King, the Nobles, Archbiſhops, Biſhops, and Abbots, drew up ſeven Articles in Parliament againſt the Popes Grievances and Oppreſſions:</p>
+               <p n="1">1. <hi>In Extorting and Collecting ſeveral Sums of Money by General Taxes and Aſſeſſes, without the Kings Aſſent or Conſent, againſt the an<g ref="char:EOLhyphen"/>cient Cuſtoms, Liberties, and Rights of the Realm, and againſt the Appeal and Contradiction of the Proctors of the King and Kingdom made in a General Council.</hi>
+               </p>
+               <p n="2">2. <hi>In kindering Patrons to preſent their Clerks to Vacant Livings, and beſtowing them by Proviſo's on other Roman Clerks, utterly ignorant of the Engliſh Tongue, to the peril of the peoples ſouls, and impoveriſhing the Realm beyond meaſure, by tranſporting Money out of it.</hi>
+               </p>
+               <p n="3">3. <hi>In granting Penſions out of Livings by proviſion, and more provi<g ref="char:EOLhyphen"/>ſion of Benefices than he promiſed, after his Bull againſt them.</hi>
+               </p>
+               <p n="4">4. <hi>That one</hi> Italian <hi>ſucceeded another, That Subjects cauſes were drawn out of the Realm by the Pope's Authority againſt the Custom of the Realm, againſt the Written Laws; that men ought not to be condemned a<g ref="char:EOLhyphen"/>mong their Enemies; and againſt Indulgences granted by his Predeceſſors to the Kings and Realm of</hi> England.</p>
+               <p n="5">5. <hi>The frequent mention of that infamous word,</hi> Non-obſtante <hi>in his Bulls, by which the Religion of an Oath, ancient Cuſtoms, vigour of Writings, the Eſtabliſhed Authority of Charters, Laws, Priviledges, were debilitated, vaniſhed away; and his not carrying himſelf courte<g ref="char:EOLhyphen"/>ouſly towards the Realm, in revoking the plenitude of his power, as he promiſed.</hi>
+               </p>
+               <p n="6">6. <hi>That in the Benefices of</hi> Italians, <hi>neither their Rights, nor ſuſten<g ref="char:EOLhyphen"/>tation of the poor, nor hoſpitality, nor preaching of God's Word, nor the uſeful Ornaments of the Churches, nor Cure of Souls, nor Divine Ser<g ref="char:EOLhyphen"/>vices, were performed as they ought to be; and according to the Cuſtom of the Countrey.</hi>
+               </p>
+               <p n="7">7. <hi>That the Walls of their Houſes fell down, together with their Roofs, and were dilapidated.</hi>
+               </p>
+               <pb n="36" facs="tcp:109501:20"/>
+               <p>To which other Complaints to the King and Parliament againſt the Court of <hi>Rome,</hi> were ſuper-added; which they ſent to the Pope by their reſpective Meſſengers, with five ſeveral Letters, two from the King to the Pope and his Cardinals, a third from all the Arch<g ref="char:EOLhyphen"/>biſhops and Biſhops, a fourth from all the Abbots and Priors, the fifth from all the Earls and Temporal Lords, ſpeedily to reform all their Grievances, to prevent unavoidable Miſchiefs to the King, the Pope, and the Church of <hi>Rome,</hi> and their revolt from Subjection to them.</p>
+               <p>They complained, that the Pope demanded Knight-ſervice due only to the King, to Lords from their Tenants, from Prelats and Clergy<g ref="char:EOLhyphen"/>men, to find him ſo many Horſe or Foot for half a year, or pay a great Ranſom in lien of it, under pain of Excommunication, which they muſt reveal to no Man. That he granted one years Fruits of all Benefices that fell void within the Province of <hi>Can<g ref="char:EOLhyphen"/>terbury</hi> to Archbiſhop <hi>Boniface.</hi> That he by ſealed Bulls required the Abbots of the <hi>Ciſtercian</hi> Order in <hi>England,</hi> to ſend him golden Jewels to adorn his Planets and Copes, as if they might be got for nothing. That if any Clerk ſhould from thenceforth die inte<g ref="char:EOLhyphen"/>ſtate, his Goods ſhould be converted to the uſe of the Pope; which he commanded the Friers, Preachers, and Minors, dili<g ref="char:EOLhyphen"/>gently to execute, ſeizing on the Money, Goods, and Plate of three rich Archdeacons, which the King hearing of prohibited; and by the common Advice of his Nobles and Prelats in Parliament, iſſued ſeveral ſucceſſive Prohibitions to the Abbot of St. <hi>Albans,</hi> and others, not to pay any Tallage to the Pope or his Agents, before the return of their Meſſengers to <hi>Rome</hi> againſt theſe Grievan<g ref="char:EOLhyphen"/>ces, under pain of ſeizing his Barony: and to the Biſhops, not to exact or levy any ſuch Tax, for any Clerk, Religious Perſon, or Lay-man, to the prejudice of his Royal Dignity, againſt his and his Nobles Proviſions in Parliament, which he neither could nor would indure.</p>
+               <p>The Pope contemned the zealous Letters and memorable Com<g ref="char:EOLhyphen"/>plaints of the King and whole Kingdom againſt his Exactions, re<g ref="char:EOLhyphen"/>quiring the Biſhop of <hi>Norwich</hi> and others to levy a Subſidy for him, at which all were amazed. The King ſummons a new Par<g ref="char:EOLhyphen"/>liament at <hi>Winton,</hi> concerning the manifold Grievances of the whole Realm, and eſpecially of the Church; wherein the Meſſen<g ref="char:EOLhyphen"/>gers ſent to the Court of <hi>Rome</hi> reported, <hi>That they could diſcern no Humility nor Moderation in the Popes Geſtures or Words, concerning the Oppreſſions wherein the Church and Realm of</hi> England <hi>were grieved,</hi>
+                  <pb n="37" facs="tcp:109501:20"/> 
+                  <hi>and whereof they complained. That when they expected a pleaſing An<g ref="char:EOLhyphen"/>ſwer,</hi> the Pope told them, <hi>The King of</hi> England, <hi>who now kicks his Heel, and</hi> Frederizeth, <hi>hath his Council, and I have mine, which I will purſue. That from that time ſcarce any Engliſh Man could di<g ref="char:EOLhyphen"/>ſpatch any Buſineſs in Court; yea, they were all repelled, and reviled as Schiſmaticks; ſo as ſo many Epiſtles of the King, and the univerſa<g ref="char:EOLhyphen"/>lity of the Nobles and Prelats of the Realm, had no efficiency at all.</hi>
+               </p>
+               <p>At which Report the King and Nobles being much exaſperated the King by their Advice commanded Proclamations to be made through all Countreys, Cities, Boroughs, and Villages of the Realm, that no Prelate, Clerk, or other Perſon, throughout the Realm, ſhould con<g ref="char:EOLhyphen"/>ſent to any Contribution to the Pope, or tranſmit any Money to<g ref="char:EOLhyphen"/>wards his Aid, or in any wiſe obey his papal Commandement: which was accordingly done.</p>
+               <p>The Pope hearing thereof, wrote to the Engliſh Prelats more ſharply than before, requiring them <hi>under pain of Excommunicati<g ref="char:EOLhyphen"/>on and Suſpenſion, to pay in the Aid he demanded, to his Nuncio in the</hi> New Temple <hi>before the Feaſt of Aſſumption.</hi> Hereupon the King was ſo terrified with the Popes Menaces, that he and the Richeſt Pre<g ref="char:EOLhyphen"/>lats complied with his Deſigns, paying 6000 Marks to the Pope, to the great impoveriſhing of the Realm; which was tranſported by the Pope's <hi>Nuncio</hi> and Merchants, to aid the <hi>Landgrave</hi> againſt the Emperor <hi>Frederick;</hi> part whereof he intercepting, grievouſly reprehended the Effeminacy of the Engliſh, and of <hi>Richard</hi> Earl of <hi>Cornwall,</hi> for yielding to the Popes party, to the Deſtruction of the Realm of <hi>England,</hi> and detriment of the Empire.</p>
+               <p>The Pope intended to have interdicted the Realm of <hi>England,</hi> had they not paid his 6000 Marks, and the King by his <hi>Nuncio's</hi> ſigni<g ref="char:EOLhyphen"/>fied his Compliance to it. Now all the conſolation and hope of re<g ref="char:EOLhyphen"/>lieving the Engliſh, expired; their Enemies being their Judges.</p>
+            </div>
+            <div n="22" type="section">
+               <head>SECT. 22.</head>
+               <p>22. Hereunto I ſhall add what I found in an Ancient Manu<g ref="char:EOLhyphen"/>ſcript, which briefly gives us an account of what things were heretofore beneficial to the Court of <hi>Rome,</hi> and prejudicial to the Realm of <hi>England;</hi> which are as followeth:</p>
+               <p n="1">1. <hi>The procuring of Favour for all manner of Faculties, and Di<g ref="char:EOLhyphen"/>ſpenſations at</hi> Rome.</p>
+               <p n="2">2. <hi>The ordinary Fees for Diſpenſations and Faculties, beſides Ex<g ref="char:EOLhyphen"/>pences in ſuing out the ſame.</hi>
+               </p>
+               <p n="3">
+                  <pb n="38" facs="tcp:109501:21"/>3. <hi>The kinds of Faculties and Diſpenſations, that in the beginning of Queen</hi> Elizabeths <hi>Reign, appeared in the Book of Faculties, re<g ref="char:EOLhyphen"/>maining then with the Queens Clerk of the Faculties.</hi>
+               </p>
+               <p n="4">4. <hi>The ſtranger the Faculty and Diſpenſation was, which was ſued for, the dearer was the Favour and Fees that were paid for the ſame.</hi>
+               </p>
+               <p n="5">5. <hi>The Gift of all Biſhopricks, Abbeys, Monaſteries,</hi> &amp;c. <hi>in</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>whereof the preſent Incumbent died in the Court of</hi> Rome.</p>
+               <p n="6">6. <hi>The Proviſions procured from</hi> Rome <hi>for the beſt Biſhopricks, Ab<g ref="char:EOLhyphen"/>beys,</hi> &amp;c. <hi>when they fell void, or were voidable by the Law.</hi>
+               </p>
+               <p n="7">7. <hi>The Appcllations to</hi> Rome, <hi>to ſtay all ordinary Law and Juſtice of Courts.</hi>
+               </p>
+               <p n="8">8. <hi>The Citations from</hi> Rome, <hi>in arreſt of Judgment procured from</hi> Rome, <hi>when Men knew or ſuſpected the Law would paſs againſt them.</hi>
+               </p>
+               <p n="9">9. <hi>The Biſhops Suit at</hi> Rome <hi>for their Pall.</hi>
+               </p>
+               <p n="10">10. <hi>The Abbots Suit at</hi> Rome <hi>for the confirmation of their Ele<g ref="char:EOLhyphen"/>ctions.</hi>
+               </p>
+               <p n="11">11. <hi>The prefering of Strangers to the beſt Promotions of the Realm (as hath been largcly ſhewn before.)</hi>
+               </p>
+               <p n="12">12. <hi>The procuring of Bulls by Biſhops, Abbots, Priors, and Colledges, to be out of the Kings V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſitation and Prerogative.</hi>
+               </p>
+               <p n="13">13. <hi>The Firſt-fruits and Tenths of all Spiritual Promotions. The Firſt fruits of vacant Benefices were granted by pope</hi> Innocent IV. <hi>to Archbiſhop</hi> Boniface <hi>for ſeven years, to raiſe Ten thouſand Marks, to pay pretended Debts of the Biſhoprick; an unheard of Innovation in</hi> England: <hi>oppoſed by the Biſhops, Nobles, and the King at firſt; yet inforced by Excommunications. But the Benefices of Noblemens, and Lay-mens Patronage, and the King's free Chappels, were exempted from them by Order of Parliament, and the Kings Writs</hi>
+               </p>
+               <p n="14">14. Peter-pence <hi>granted by the Kings</hi> Ina <hi>and</hi> Offa <hi>to the Engliſh School at</hi> Rome, <hi>not to St.</hi> Peter; <hi>called</hi> Peter-Pence, <hi>becauſe pay<g ref="char:EOLhyphen"/>able upon St.</hi> Peter's <hi>day, excepted in King</hi> John's <hi>Charter to the Pope, frequently demanded by the Popes. Granted to St.</hi> Albans <hi>Ab<g ref="char:EOLhyphen"/>bey by King</hi> Offa, <hi>confirmed ſince by Popes Bulls.</hi>
+               </p>
+               <p n="15">15. <hi>The ſtrange number and kinds of Pardons, to allure all ſorts of</hi> 
+                  <note place="margin">Sleidon's Comment. lib. 15.</note> 
+                  <hi>People to take and purchaſe them. Frier</hi> Tecel, <hi>to ſet forth the glory and prevalency of the Popes Pardons (whereof he was the Pedler in</hi> Germany) <hi>for the comfort and incouragement of Harlots and Whore<g ref="char:EOLhyphen"/>mongers, ſo far forgot the Honour and Reverence he ſhould have given to the chaſte Virgin</hi> Mary, <hi>that he impiouſly averred, If a Man had lain with our Bleſſed Lady, the Mother of Chriſt, and gotten her with-child, yet the Popes Pardon was able to ſet him free from this Offence.</hi>
+               </p>
+               <pb n="39" facs="tcp:109501:21"/>
+               <p>
+                  <hi>Pardons were granted from the Pope for Eighty two thouſand years, for ſaying a ſhort Prayer at Chriſts Sepulchre in</hi> Venice, toties quoties. <hi>For ſaying every</hi> Ave Maria <hi>in our Ladies Crown, conſiſting of</hi> 63 Aves, <hi>Two hundred eighty eight days Pardon of all ſins; and every Holy</hi> Mary <hi>in it 40 days Pardon: and for ſaying the whole Crown of</hi> 63 Aves, <hi>and</hi> 12 Pater-noſters, <hi>by ſeveral Popes Indulgences, Two hundred ſe<g ref="char:EOLhyphen"/>venty three thouſand, ſeven hundred fifty eight days of Pardon. And by the Bull of Pope</hi> Sixtus IV. <hi>Twelve thouſand years of Pardon for every time any Perſon in the State of Grace, ſhall ſay this Prayer:</hi> Ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l moſt holy <hi>Mary,</hi> Mother of God, Queen of Heaven, Gate <note place="margin">
+                     <hi>Bernardinus de Euſti Martiale.</hi> part 12.</note> of Paradice, Lady of the World, Singular and Pure; Thou art a Virgin, thou haſt conceived Chriſt without ſin: Thou haſt brought forth the Creator and Saviour of the World, in whom I doubt not; De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r me from all Evil, and pray for my Sins. <hi>Amen.</hi>
+               </p>
+               <div type="indulgences">
+                  <head>
+                     <hi>Here I ſhall preſent you with ſome Indulgences granted by Pope</hi> Gregory XIII. <hi>at the inſtance of the Popiſh Bi<g ref="char:EOLhyphen"/>ſhop of St.</hi> Aſaph, <hi>in favour of one Mr.</hi> John Swynborn <hi>an Engliſh man, the laſt day of</hi> March 1574.</head>
+                  <p n="1">1. WHoſoever having one of theſe bleſſed Grains or Beads <hi>(viz. ſome conſecrated Grains and Beads ſent by the Pope)</hi> among his other Beads; and ſhall (being confeſſed and communicated) ſay over his Beads, or the Roſary; or ſhall read the paſſion of Chriſt our Saviour; or ſay the Seven Pſalms with the Letanies, praying for the Pope's Holineſs, or for the Unity of the whole Common-wealth of Princes and Chriſtian people, with the See Apoſtolick, and for the Reducti<g ref="char:EOLhyphen"/>on of the Hereticks Septentrional; ſhall for every time obtain full Remiſſion of their Sins, as is granted in the Holy Wars againſt Infi<g ref="char:EOLhyphen"/>dels.</p>
+                  <p n="2">2. And in the days of the Conception, Nativity, Annunciation, Viſitation, Purification, and Aſſumption of Our Bleſſed Lady, being confeſſed and communicated; and ſaying over your Beads, or the Office of our Lady; and praying for the Reduction of the Hereticks of <hi>England</hi> and other Countries Septentrional, ſhall obtain in every the above-na<g ref="char:EOLhyphen"/>med days, all the Indulgences that be granted to our Lady of <hi>Loretto,</hi> of <hi>Monteſerato,</hi> of St. <hi>Angelo,</hi> and of <hi>Sta. Maria Maggiore</hi> of <hi>Rome,</hi> and any other Churches of our Lady in the whole World.</p>
+                  <p n="3">3. And ſo often as any having Contrition of their Sins, ſhall de<g ref="char:EOLhyphen"/>voutly hear Maſs, or Sermon, or ſay the <hi>Ave Mary</hi> in the Morn<g ref="char:EOLhyphen"/>ing,
+<pb n="40" facs="tcp:109501:22"/> Mid-day, and at Night, when the Bell tolleth, they being bare-headed, and kneeling upon their Knees; or ſhall bear with them three Beads at their Girdle, or other place open to be ſeen, or ſhall do reverence to the Image of the Croſs, of our Lady, or any other Saint; or ſhall examine their Conſcience at Night before they go to ſleep: or ſhall, going in or out of the Church, or their Cham<g ref="char:EOLhyphen"/>ber, take Holy Water; or perſwade or move others to do the ſame; or ſhall charitably reprehend Blaſphemers and other Sinners, ſhall for every time ſo doing obtain an hundred years of Indulgences.</p>
+                  <p n="4">4. And ſuch as ſhall teach the Ignorant the Matters of the Faith, according to his or their Eſtate; or openly defend in every place the Catholick Church, by Writing, Catechiſing, Preaching, or by any other means, they then ſhall obtain thereby the third part of their ſins to be forgiven.</p>
+                  <p n="5">5. Alſo thrice in a mans life-time, after he ſhall have faſted three days, and ſaid over the whole <hi>Pſalter,</hi> and his Beads once; or gi<g ref="char:EOLhyphen"/>ven ſufficient Alms, or done ſome other good Deed equivalent; making to a Confeſſor appointed by his Ordinary, or Superiour, a general Confeſſion (that is) either of his whole life, or of that which, is paſſed ſince his laſt general Confeſſion was made; and being com<g ref="char:EOLhyphen"/>municated, ſhall obtain thereby full remiſſion of all his other ſins.</p>
+                  <p n="6">6. Moreover, every day in <hi>Lent,</hi> ſaying over with Devotion and Contrition of Heart, and Deſire of the Increaſing of the Holy Faith, his Beads, Faſting alſo if he may, otherwiſe praying, or doing ſome other Charitable Works, according to his Confeſſors Counſel, ſhall obtain therefore all the ſtations of <hi>Rome</hi> day by day, as they be appointed in divers Churches thorowout the whole year.</p>
+                  <p n="7">7. Moreover, Every Friday of the Moneth of <hi>March,</hi> and in the days of the <hi>Invention</hi> and <hi>Exaltation of the Croſs,</hi> ſaying over the <hi>Co<g ref="char:EOLhyphen"/>rona,</hi> or Beads; or the Office of the Croſs; and upon <hi>Good-Friday</hi> the Seven Pſalms with the Litanies, being confeſſed; or having purpo<g ref="char:EOLhyphen"/>ſed to be conſeſt, as ſoon as they may; ſhall obtain therefore all the Indulgences of the Holy Sepulchre at <hi>Jeruſalem,</hi> of St. <hi>Croſs</hi> in <hi>Rome,</hi> of the Holy Chappel in <hi>Paris,</hi> and all the places where any Relicts be of our Saviour Chriſt's Paſſion.</p>
+                  <p n="8">8. <hi>Item,</hi> Upon <hi>All ſouls</hi> day ſaying over the Beads with Contriti<g ref="char:EOLhyphen"/>on, and being preſent at the Service ſaid for the Departed out of this Life, or (at the leaſt) hearing a Maſs; or ſaying over, or cau<g ref="char:EOLhyphen"/>ſing one to be ſaid, ſhall deliver one ſoul out of the Pains of <hi>Pur<g ref="char:EOLhyphen"/>gatory.</hi> Every Monday alſo, he that ſaith over his Beads or <hi>Dirige,</hi>
+                     <pb n="41" facs="tcp:109501:22"/> for the Departed out of this Life, ſhall obtain the ſame Indulgences which be obtained in <hi>Rome</hi> for Viſiting Holy places for that pur<g ref="char:EOLhyphen"/>poſe.</p>
+                  <p n="9">9. <hi>Item,</hi> Every Sunday and Friday, ſaying over the Beads for the increaſe of all Orders of Religion, of Cathedral Churches, Cural and others, namely <hi>Tramontaines,</hi> they ſhall be partakers of all the Prayers and Sacrifices of the ſame, as though they were corporally preſent with them; praying alſo for the <hi>Indans</hi> and parts without <hi>Europe,</hi> they ſhall be partakers of their well-doing, which travel in thoſe Countreys in the Vineyard of God.</p>
+                  <p n="10">10. <hi>Item,</hi> It is granted, That for once or twice, an Unhallowed Grain or Bead may be put in the place of an Hallowed Bead or Grain, if it be loſt or broken; and have the ſame Indulgences.</p>
+                  <p>The Concluſion is in this manner, <hi>Laus Deo, Virginique Matri,</hi> Praiſe be to God, and the Virgin-Mother.</p>
+                  <p>16. Hereto may be added the Special Pardons and Bulls given to ſpecial Places of Pilgrimage, and the advancing of new found Mi<g ref="char:EOLhyphen"/>racles and Pilgrimages, with new granted Bulls and Pardons. There is no Church of note among them, no notorious Image, to which Men go on Pilgrimage, no Author of any new Sect, ſcarce any Re<g ref="char:EOLhyphen"/>ligious Houſe, which is not famous by one or more pretended Mi<g ref="char:EOLhyphen"/>racles.</p>
+                  <p>If a man will trouble himſelf to read the Lives of their Saints, their Legends, and Books of the like nature, he ſhall tire out himſelf with the Reports of Miracles, far more ſtrange than we can read of any in the Scripture.</p>
+                  <p>
+                     <hi>Bellarmine</hi> glorieth in the daily Tydings of Miracles wrought by the Jeſuits, which are brought to <hi>Rome.</hi> Large Narra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ons are of the Miracles of <hi>Navierius</hi> a famous Jeſuite; of our Lady of <hi>Moun<g ref="char:EOLhyphen"/>taign,</hi> of our Lady of <hi>Hall</hi> in the <hi>Low Countries,</hi> and of many o<g ref="char:EOLhyphen"/>ther ſuch Idols. Almoſt a mans life were too little to read over all of this kind, and now more multiplied than ever heretofore.</p>
+                  <p>And we may ſuſpect their Miracles, when divers of their own Authors have called in queſtion the truth of them. <hi>Lyranus</hi> ſaith, <hi>That people are much deceived by Miracles made by Prieſts and their Fel<g ref="char:EOLhyphen"/>lows for worldly gain. Alexander Hale<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> a great Schoolman, ſaith, <hi>That they make ſometime Fleſh to appear in the Sacrament; partly,</hi> Hu<g ref="char:EOLhyphen"/>mana procuratione, interdum operatione Diabolica: <hi>by humane pro<g ref="char:EOLhyphen"/>curement, and ſometimes by the working of the Devil.</hi> And <hi>Clandius Eſpencaeus,</hi> ſometime Biſhop of <hi>Paris,</hi> ſaith, <hi>No ſtable is ſo full of</hi>
+                     <pb n="42" facs="tcp:109501:23"/> 
+                     <hi>dung, as their Legends are of Fables in this kind.</hi> And <hi>Canus</hi> in his Common Places ſaith, <hi>That in the Legend a man ſhall read</hi> Monſtra Miraculorum. Thus I ſay, <hi>The words of divers eminent Men of their own ſide, do make us ſuſpect their Miracles to be but Tales.</hi>
+                  </p>
+                  <p>Many of the things themſelves in common conceiving are ridicu<g ref="char:EOLhyphen"/>lous; as that old Tale of So: <hi>Dionyſius,</hi> that carried his Head in his hand after it was ſtrucken off: Of <hi>Clement</hi> the Firſt, that when he was caſt into the Sea with a Milſtone about his Neck, the Sea fled three miles from the Shore, and there was found a little Chappel ready built in the Sea; where his Body was Beſtowed.</p>
+                  <p>I have alſo read of another, who ſtuck his Staff down by him at the Bank-ſide, which kept the River from over-flowing the Banks; and ſoon after it ſprang up, and ſpread it ſelf into a mighty Tree. There are a world of ſuch Tales, enough to weary any one to recite them. And yet even ſuch as theſe had Bulls and In<g ref="char:EOLhyphen"/>dulgences granted to them.</p>
+                  <p>17. The ſpecial Juriſdictions and Exemptions that one Biſhop and Abbot procured above another.</p>
+                  <p>18. Their providing that no Condemned Clerk might be Exe<g ref="char:EOLhyphen"/>cuted.</p>
+               </div>
+            </div>
+            <div n="23" type="section">
+               <head>SECT. 23.</head>
+               <p>In this ſtate (as hath been expreſſed) this Realm ſtood (for the moſt part) by the ſpace of 300 years after the Conqueſt: The times that followed were ſomewhat freed from certain degrees of the Popes Tyranny, by reaſon that the Kings of this Realm armed them<g ref="char:EOLhyphen"/>ſelves with Laws made in defence of ſome of their ancient Liberties, and Executed others with better Courage than their Predeceſſors.</p>
+               <p>But I doubt, if God for our ſins ſhould caſt us again under his Yoke, none of thoſe Laws would ſave us from the extreameſt of all thoſe miſchiefs which I have here ſet down. My Reaſons are,</p>
+               <p n="1">1. The Popes are no Changelings, but were the ſame after thoſe Statutes, and are the ſame men that they were before; and to put us out of doubt, made continual claim to their Uſurped Authority in the time of the later Princes.</p>
+               <p>For in the Reign of King <hi>Henry</hi> V. Pope <hi>Martin</hi> the Fifth ſent to levy a Subſidy upon the Clergy of this Land, for maintenance of his Wars againſt the <hi>Bohemians.</hi> And he made <hi>Henry Beaufort</hi> the rich Cardinal of <hi>Wincheſter</hi> his Legat for thoſe Wars, who did vali<g ref="char:EOLhyphen"/>antly there for certain moneths together, aſſiſted with the foreſaid Subſidy, until he was re-called by the Pope.</p>
+               <p>And two other Subſidies were afterwards required, to perſecute
+<pb n="43" facs="tcp:109501:23"/> two private perſons of this Realm; <hi>viz. Peter Clerk,</hi> and <hi>William Ruſ<g ref="char:EOLhyphen"/>ſel.</hi> 
+                  <note place="margin">
+                     <hi>Fex.</hi> Acts and Monu<g ref="char:EOLhyphen"/>ments.</note> In the time of King <hi>Henry</hi> VI. the Cardinal of <hi>Wincheſter,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding the Statute againſt Proviſion, procured the Popes Bull to take again his Biſhoprick of <hi>Wincheſter,</hi> which he had loſt by his Car<g ref="char:EOLhyphen"/>dinalſhip; and after obtained a Pardon from the Pope againſt the pe<g ref="char:EOLhyphen"/>nalty of the Statute.</p>
+               <p>And in the ſame Prince's Reign, <hi>Lewes</hi> Archbiſhop of <hi>Roan,</hi> after the death of the Biſhop of <hi>Ely,</hi> had all the Fruits and Revenues of that Biſhoprick granted unto him during life; but was therein re<g ref="char:EOLhyphen"/>ſiſted by the King. Other Examples there be of like ſort.</p>
+               <p n="2">2. In the laſt Council of <hi>Trent,</hi> there is a ſpecial Conſtitution for <note place="margin">
+                     <hi>Concil. Trident. Seſſ. 5. c.</hi> 18.</note> Reſtitution of all Eccleſiaſtical Liberties; and therein the Emperour, all Kings, Princes, and States, are commanded that they ſee them protected.</p>
+               <p>The Title of Eccleſiaſtical Liberties, reacheth to every of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Points before touched, and therefore we may conjecture what we are to look for.</p>
+               <p n="3">3. The Pope yearly publiſheth one Excommunication, which is called <hi>Bulla de Coena,</hi> wherein by Name are compriſed all that be any let to ſuch as would proſecute any Suit at <hi>Rome;</hi> or that ſuffer not the Popes Bulls, Commiſſions, and other Proceſſes whatſoever, to be executed. And all that execute any Statutes, De<g ref="char:EOLhyphen"/>rogative to the Liberties of <hi>Rome,</hi> be the cuſtom to the contrary never ſo ancient; and ſuch as impoſe Tenths, Subſidies upon the Clergy, or receive them at their hands with good conſent, ex<g ref="char:EOLhyphen"/>cept the Pope allow thereof; and thoſe alſo which force any Ec<g ref="char:EOLhyphen"/>cleſiaſtical Perſon to anſwer before them in Criminal Cauſes, be<g ref="char:EOLhyphen"/>ing Lay-Judges, <hi>&amp;c.</hi> So ſaith <hi>Martinus ab Azpil, in Enchyridion;</hi> c. 27. Which Book was made by the ſpecial Commandement of Pope <hi>Gregory</hi> XIII. The warning given us by Bulls publiſhed in Queen <hi>Elizabeths</hi> Reign, aſſureth us that if he may have place again, he meaneth not to dally with us.</p>
+               <p n="4">4. Some of our unnatural Countrey-men in ſome deſperate Books of theirs, long ſince caſt abroad againſt the Execution of Juſtice, have not ſpared to tell us, that the Laws made in Catholick times, <hi>viz:</hi> the Statute of <hi>Praemunire,</hi> and ſome other, were bad Laws, and not to be allowed. And again, there were found upon ſome which came in Queen <hi>Elizabeths</hi> time to diſturb the Peace of this Realm, ſmall Pamphlets, containing Directions (as they would have them taken) for Mens Conſciences, wherein they delivered many things to trouble thoſe perſons whoſe Conſciences
+<pb n="44" facs="tcp:109501:24"/> were poſſibly in thoſe Points ſtayed, in confidence of the Ancient Laws of this Realm, and upon ſome Grants made by the Pope himſelf.</p>
+               <p n="5">5. The Pope hath challenged a Soveraignty over this Realm, to beſtow it where he liſteth, as feudary unto himſelf, having for<g ref="char:EOLhyphen"/>merly received a Tribute, <hi>viz.</hi> The <hi>Peter-pence,</hi> which was in times of Popery of every Houſe a penny. Whereby <hi>Bodin</hi> in his Book <hi>de Republica,</hi> argueth, that the Realm of <hi>England</hi> is not a Soveraign Eſtate; not to ſpeak of the yearly Tribute paid unto the Pope by King <hi>John,</hi> and ſome other Princes his Succeſſors. This may ſerve the Pope for a mean to bridle all the Old Statutes and the Liberties of our Countrey, and to ſpoil the Prince of all his Prerogatives. We know how he dealt with <hi>Sicily</hi> and <hi>Naples,</hi> long agone; wherein it were an hard matter for the proudeſt of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſide to juſtifie his Title: And that he hath put out, and put in Kings at his will, and ſometime offered their Kingdoms to ſale: And from King <hi>Henry</hi> the Third, by the ſhadow of a bare Title, the Pope got infinite ſums of Money, to the great exhauſting of his Treaſure, and impoveriſhing of the Realm.</p>
+               <p>When <hi>Stukeley</hi> and <hi>Fitz-moris</hi> were at <hi>Rome,</hi> they and the Pope practiced to give this Realm in Prey, as he did the Kingdom of <hi>Navarre,</hi> and the Empire from the Emperor <hi>Frederick,</hi> and alſo to get an Inveſtiture of the Realm of <hi>Ireland</hi> from the Pope, as of a Soveraign; but they could not agree upon whom the Pope ſhould beſtow that Realm.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:109501:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
